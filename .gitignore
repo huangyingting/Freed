@@ -1,0 +1,33 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Next.js build output
+/.next/
+/out/
+
+# Production & test artifacts
+/build
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+*.tsbuildinfo
+
+# Local environment variables & SQLite database files
+.env
+.env*.local
+prisma/*.db
+prisma/*.db-journal
+
+# Ephemeral exploration session tokens
+exploration/temp-account.json
+exploration/auth-storage-state.json
+exploration/*captured*.json
+
+# Logs & OS files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store

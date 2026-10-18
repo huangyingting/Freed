@@ -1,0 +1,144 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id                   String           @id @default(cuid())
+  email                String           @unique
+  passwordHash         String
+  firstName            String           @default("")
+  lastName             String           @default("")
+  clinicalTitle        String           @default("MD")
+  role                 String           @default("admin")
+  roleAtPractice       String           @default("Clinical staff")
+  specialty            String           @default("Family Medicine")
+  specialtyGroup       String           @default("Medicine")
+  practiceSize         String           @default("Just me (solo practice)")
+  profileEhrType       String           @default("athenahealth")
+  onboardingCompleted  Boolean          @default(false)
+  agreedToBaa          Boolean          @default(true)
+  planTier             String           @default("premier")
+  billingCycle         String           @default("monthly")
+  trialEndsAt          DateTime         @default(now())
+  totalSeats           Int              @default(3)
+  retentionDays        Int              @default(30)
+  patientTitle         String           @default("Patient")
+  aiDisclosureEnabled  Boolean          @default(true)
+  hideEmptyHeaders     Boolean          @default(false)
+  themeMode            String           @default("light")
+  ehrAutoPush          Boolean          @default(false)
+  zoomConnected        Boolean          @default(false)
+  extensionInstalled   Boolean          @default(true)
+  mfaEnabled           Boolean          @default(false)
+  createdAt            DateTime         @default(now())
+  updatedAt            DateTime         @updatedAt
+
+  visits               Visit[]
+  templates            Template[]
+  dotPhrases           DotPhrase[]
+  teamMembers          TeamMember[]
+  invoices             BillingInvoice[]
+}
+
+model Visit {
+  id                String            @id @default(cuid())
+  userId            String
+  user              User              @relation(fields: [userId], references: [id], onDelete: Cascade)
+  patientName       String            @default("Untitled Patient")
+  pronouns          String            @default("")
+  visitDate         DateTime          @default(now())
+  visitMode         String            @default("in-person")
+  status            String            @default("new")
+  durationSeconds   Int               @default(0)
+  isDemo            Boolean           @default(false)
+  templateId        String?
+  templateName      String            @default("Returning Patient")
+  preChartNotes     String            @default("")
+  transcript        String            @default("")
+  oneLiner          String            @default("")
+  hpi               String            @default("")
+  objective         String            @default("")
+  anp               String            @default("")
+  instructions      String            @default("")
+  instructionsLang  String            @default("English")
+  codingJson        String            @default("{}")
+  lettersJson       String            @default("{}")
+  ehrPushStatus     String            @default("not_pushed")
+  ehrPushedAt       DateTime?
+  ehrTarget         String?
+  createdAt         DateTime          @default(now())
+  updatedAt         DateTime          @updatedAt
+
+  evidenceMessages  EvidenceMessage[]
+}
+
+model Template {
+  id                String   @id @default(cuid())
+  userId            String?
+  user              User?    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  name              String
+  description       String   @default("")
+  templateType      String   @default("canonical")
+  specialty         String?
+  specialtyGroup    String?
+  source            String   @default("User")
+  isFavorite        Boolean  @default(false)
+  isDefault         Boolean  @default(false)
+  autoLearnEnabled  Boolean  @default(true)
+  contentJson       String   @default("{}")
+  lastUsedAt        DateTime @default(now())
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+}
+
+model DotPhrase {
+  id          String   @id @default(cuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  shortcut    String
+  content     String
+  visibility  String   @default("personal")
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model EvidenceMessage {
+  id            String   @id @default(cuid())
+  visitId       String
+  visit         Visit    @relation(fields: [visitId], references: [id], onDelete: Cascade)
+  role          String
+  mode          String   @default("evidence")
+  content       String
+  citationsJson String   @default("[]")
+  createdAt     DateTime @default(now())
+}
+
+model TeamMember {
+  id              String   @id @default(cuid())
+  ownerId         String
+  owner           User     @relation(fields: [ownerId], references: [id], onDelete: Cascade)
+  name            String
+  email           String
+  role            String   @default("Clinician")
+  status          String   @default("Active")
+  lastSeenAt      DateTime @default(now())
+  daysLeftInTrial Int      @default(7)
+  createdAt       DateTime @default(now())
+}
+
+model BillingInvoice {
+  id           String   @id @default(cuid())
+  userId       String
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  planTier     String
+  billingCycle String
+  seats        Int      @default(1)
+  amountCents  Int
+  status       String   @default("paid")
+  invoiceDate  DateTime @default(now())
+}

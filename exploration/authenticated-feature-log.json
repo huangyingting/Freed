@@ -1,0 +1,2522 @@
+[
+  {
+    "stepName": "01-Welcome-Modal",
+    "fileName": "33-auth-welcome-modal.png",
+    "url": "https://secure.getfreed.ai/record",
+    "bodyText": "Visits\n\nTemplates\n\nEHR Push\n\nSubscribe\n\nAR\n\nNew visit\n\nActive visits\n\nToday\n\nJohn Smith\n\n6:13 AM · Demo visit\n\nReturning Patient\n\nCapture\n\nLet's get started. Add your patient's name\n\n​\nLet's test your audio\n\nSelect microphone\n\nFake Default Audio Input\n​\n\nInput level\n\nConfirm",
+    "testIds": [
+      {
+        "testId": "aiux-app",
+        "tag": "DIV",
+        "text": "Visits Templates EHR Push Subscribe AR New visit Active visits Today John Smith 6:13 AM · Demo visit Returning Patient C",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-visits",
+        "tag": "BUTTON",
+        "text": "Visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-ehr",
+        "tag": "BUTTON",
+        "text": "EHR Push",
+        "ariaLabel": null
+      },
+      {
+        "testId": "subscribe-nav-button",
+        "tag": "BUTTON",
+        "text": "Subscribe",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-settings-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "help-center-nav-icon",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "menu-appbar",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-schedule-panel",
+        "tag": "DIV",
+        "text": "New visit Active visits Today John Smith 6:13 AM · Demo visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-new-visit-button",
+        "tag": "BUTTON",
+        "text": "New visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-all-checkbox",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "Select all"
+      },
+      {
+        "testId": "aiux-filter-button",
+        "tag": "BUTTON",
+        "text": "Active visits",
+        "ariaLabel": "Change visit list. Current: Active visits"
+      },
+      {
+        "testId": "aiux-filter-label",
+        "tag": "SPAN",
+        "text": "Active visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-date-filter-toggle",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Filter visits by date"
+      },
+      {
+        "testId": "visit-search-toggle",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Search visits"
+      },
+      {
+        "testId": "VisitList-List",
+        "tag": "DIV",
+        "text": "Today John Smith 6:13 AM · Demo visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-item-button",
+        "tag": "DIV",
+        "text": "John Smith 6:13 AM · Demo visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-state-new",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-visit-select",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Select"
+      },
+      {
+        "testId": "menu-visit-delete-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Move to Trash"
+      },
+      {
+        "testId": "new-template-selector",
+        "tag": "BUTTON",
+        "text": "Returning Patient",
+        "ariaLabel": null
+      },
+      {
+        "testId": "upload-recording",
+        "tag": "INPUT",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "record-button",
+        "tag": "BUTTON",
+        "text": "Capture",
+        "ariaLabel": "Capture"
+      },
+      {
+        "testId": "upload-transcript-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Upload transcript"
+      },
+      {
+        "testId": "PatientNameForVisit-TextField",
+        "tag": "INPUT",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "test-audio-popup",
+        "tag": "DIV",
+        "text": "Let's test your audio Select microphone Fake Default Audio Input ​ Input level Confirm",
+        "ariaLabel": null
+      },
+      {
+        "testId": "test-audio-popup-close",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CloseIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "test-audio-popup-select",
+        "tag": "DIV",
+        "text": "Fake Default Audio Input ​",
+        "ariaLabel": null
+      },
+      {
+        "testId": "ArrowDropDownIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "audio-level-meter",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Visits",
+        "ariaLabel": null,
+        "testId": "aiux-sidenav-visits"
+      },
+      {
+        "text": "Templates",
+        "ariaLabel": null,
+        "testId": null
+      },
+      {
+        "text": "EHR Push",
+        "ariaLabel": null,
+        "testId": "aiux-sidenav-ehr"
+      },
+      {
+        "text": "Subscribe",
+        "ariaLabel": null,
+        "testId": "subscribe-nav-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "aiux-settings-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "help-center-nav-icon"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "menu-appbar"
+      },
+      {
+        "text": "New visit",
+        "ariaLabel": null,
+        "testId": "aiux-new-visit-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Collapse visits",
+        "testId": null
+      },
+      {
+        "text": "Active visits",
+        "ariaLabel": "Change visit list. Current: Active visits",
+        "testId": "aiux-filter-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Filter visits by date",
+        "testId": "visit-date-filter-toggle"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Search visits",
+        "testId": "visit-search-toggle"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Select",
+        "testId": "aiux-visit-select"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Move to Trash",
+        "testId": "menu-visit-delete-button"
+      },
+      {
+        "text": "Returning Patient",
+        "ariaLabel": null,
+        "testId": "new-template-selector"
+      },
+      {
+        "text": "Capture",
+        "ariaLabel": "Capture",
+        "testId": "record-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Upload transcript",
+        "testId": "upload-transcript-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "test-audio-popup-close"
+      },
+      {
+        "text": "Confirm",
+        "ariaLabel": null,
+        "testId": null
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "ariaLabel": null,
+        "testId": "upload-recording"
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "placeholder": "Select or add patient",
+        "ariaLabel": null,
+        "testId": "PatientNameForVisit-TextField"
+      },
+      {
+        "tag": "INPUT",
+        "type": null,
+        "placeholder": null,
+        "ariaLabel": null,
+        "testId": null
+      }
+    ]
+  },
+  {
+    "stepName": "03-First-Visit-Selected",
+    "fileName": "35-auth-visit-selected.png",
+    "url": "https://secure.getfreed.ai/visit/c258ee90-3e63-4bae-baef-cbfeed40ec69",
+    "bodyText": "Visits\n\nTemplates\n\nEHR Push\n\nSubscribe\n\nAR\n\nNew visit\n\nActive visits\n\nToday\n\nJohn Smith\n\n6:13 AM · Demo visit\n\n​\n+ add pronoun\n•\nToday at 6:13 AM\nSelect Template\n\nCapture\n\nAI Chat\n\nClinical Evidence\n\nAsk: What is first-line therapy for chronic insomnia in adults?",
+    "testIds": [
+      {
+        "testId": "aiux-app",
+        "tag": "DIV",
+        "text": "Visits Templates EHR Push Subscribe AR New visit Active visits Today John Smith 6:13 AM · Demo visit ​ + add pronoun • T",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-visits",
+        "tag": "BUTTON",
+        "text": "Visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-ehr",
+        "tag": "BUTTON",
+        "text": "EHR Push",
+        "ariaLabel": null
+      },
+      {
+        "testId": "subscribe-nav-button",
+        "tag": "BUTTON",
+        "text": "Subscribe",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-settings-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "help-center-nav-icon",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "menu-appbar",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-schedule-panel",
+        "tag": "DIV",
+        "text": "New visit Active visits Today John Smith 6:13 AM · Demo visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-new-visit-button",
+        "tag": "BUTTON",
+        "text": "New visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-all-checkbox",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "Select all"
+      },
+      {
+        "testId": "aiux-filter-button",
+        "tag": "BUTTON",
+        "text": "Active visits",
+        "ariaLabel": "Change visit list. Current: Active visits"
+      },
+      {
+        "testId": "aiux-filter-label",
+        "tag": "SPAN",
+        "text": "Active visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-date-filter-toggle",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Filter visits by date"
+      },
+      {
+        "testId": "visit-search-toggle",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Search visits"
+      },
+      {
+        "testId": "VisitList-List",
+        "tag": "DIV",
+        "text": "Today John Smith 6:13 AM · Demo visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-item-button",
+        "tag": "DIV",
+        "text": "John Smith 6:13 AM · Demo visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-state-new",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-visit-select",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Select"
+      },
+      {
+        "testId": "menu-visit-delete-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Move to Trash"
+      },
+      {
+        "testId": "aiux-header-breadcrumb",
+        "tag": "DIV",
+        "text": "​ + add pronoun • Today at 6:13 AM",
+        "ariaLabel": null
+      },
+      {
+        "testId": "PatientNameForVisit-TextField",
+        "tag": "INPUT",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "edit-patient-name",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Edit Patient Name"
+      },
+      {
+        "testId": "aiux-header-pronoun-action",
+        "tag": "BUTTON",
+        "text": "+ add pronoun",
+        "ariaLabel": "Add pronouns"
+      },
+      {
+        "testId": "aiux-visit-datetime",
+        "tag": "SPAN",
+        "text": "Today at 6:13 AM",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-header-right-cluster",
+        "tag": "DIV",
+        "text": "Select Template Capture",
+        "ariaLabel": null
+      },
+      {
+        "testId": "new-template-selector",
+        "tag": "BUTTON",
+        "text": "Select Template",
+        "ariaLabel": null
+      },
+      {
+        "testId": "upload-recording",
+        "tag": "INPUT",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "record-button",
+        "tag": "BUTTON",
+        "text": "Capture",
+        "ariaLabel": "Capture"
+      },
+      {
+        "testId": "upload-transcript-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Upload transcript"
+      },
+      {
+        "testId": "aiux-artifact-scroll",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-chat-panel-header",
+        "tag": "DIV",
+        "text": "AI Chat Clinical Evidence",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-chat-sources-subtext",
+        "tag": "BUTTON",
+        "text": "Clinical Evidence",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-clinical-evidence-info",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "Answers cite 50+ trusted sources, curated and evaluated by clinicians. Evidence supports your judgment. Every citation links to the original."
+      },
+      {
+        "testId": "aiux-chat-panel-close-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Minimize chat"
+      },
+      {
+        "testId": "aiux-chat-input",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-upload-document-btn",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Visits",
+        "ariaLabel": null,
+        "testId": "aiux-sidenav-visits"
+      },
+      {
+        "text": "Templates",
+        "ariaLabel": null,
+        "testId": null
+      },
+      {
+        "text": "EHR Push",
+        "ariaLabel": null,
+        "testId": "aiux-sidenav-ehr"
+      },
+      {
+        "text": "Subscribe",
+        "ariaLabel": null,
+        "testId": "subscribe-nav-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "aiux-settings-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "help-center-nav-icon"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "menu-appbar"
+      },
+      {
+        "text": "New visit",
+        "ariaLabel": null,
+        "testId": "aiux-new-visit-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Collapse visits",
+        "testId": null
+      },
+      {
+        "text": "Active visits",
+        "ariaLabel": "Change visit list. Current: Active visits",
+        "testId": "aiux-filter-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Filter visits by date",
+        "testId": "visit-date-filter-toggle"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Search visits",
+        "testId": "visit-search-toggle"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Select",
+        "testId": "aiux-visit-select"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Move to Trash",
+        "testId": "menu-visit-delete-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Edit Patient Name",
+        "testId": "edit-patient-name"
+      },
+      {
+        "text": "+ add pronoun",
+        "ariaLabel": "Add pronouns",
+        "testId": "aiux-header-pronoun-action"
+      },
+      {
+        "text": "Select Template",
+        "ariaLabel": null,
+        "testId": "new-template-selector"
+      },
+      {
+        "text": "Capture",
+        "ariaLabel": "Capture",
+        "testId": "record-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Upload transcript",
+        "testId": "upload-transcript-button"
+      },
+      {
+        "text": "Clinical Evidence",
+        "ariaLabel": null,
+        "testId": "aiux-chat-sources-subtext"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Minimize chat",
+        "testId": "aiux-chat-panel-close-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "aiux-upload-document-btn"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "placeholder": "Select or add a patient",
+        "ariaLabel": null,
+        "testId": "PatientNameForVisit-TextField"
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "ariaLabel": null,
+        "testId": "upload-recording"
+      },
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": null,
+        "ariaLabel": null,
+        "testId": null
+      },
+      {
+        "tag": "TEXTAREA",
+        "type": null,
+        "placeholder": null,
+        "ariaLabel": null,
+        "testId": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "ariaLabel": null,
+        "testId": null
+      }
+    ]
+  },
+  {
+    "stepName": "05-New-Visit-Workspace",
+    "fileName": "37-auth-new-visit.png",
+    "url": "https://secure.getfreed.ai/record",
+    "bodyText": "Visits\n\nTemplates\n\nEHR Push\n\nSubscribe\n\nAR\n\nNew visit\n\nActive visits\n\nToday\n\nJohn Smith\n\n6:13 AM · Demo visit\n\nReturning Patient\n\nCapture\n\nLet's get started. Add your patient's name\n\n​\nLet's test your audio\n\nSelect microphone\n\nFake Default Audio Input\n​\n\nInput level\n\nConfirm",
+    "testIds": [
+      {
+        "testId": "aiux-app",
+        "tag": "DIV",
+        "text": "Visits Templates EHR Push Subscribe AR New visit Active visits Today John Smith 6:13 AM · Demo visit Returning Patient C",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-visits",
+        "tag": "BUTTON",
+        "text": "Visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-ehr",
+        "tag": "BUTTON",
+        "text": "EHR Push",
+        "ariaLabel": null
+      },
+      {
+        "testId": "subscribe-nav-button",
+        "tag": "BUTTON",
+        "text": "Subscribe",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-settings-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "help-center-nav-icon",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "menu-appbar",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-schedule-panel",
+        "tag": "DIV",
+        "text": "New visit Active visits Today John Smith 6:13 AM · Demo visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-new-visit-button",
+        "tag": "BUTTON",
+        "text": "New visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-all-checkbox",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "Select all"
+      },
+      {
+        "testId": "aiux-filter-button",
+        "tag": "BUTTON",
+        "text": "Active visits",
+        "ariaLabel": "Change visit list. Current: Active visits"
+      },
+      {
+        "testId": "aiux-filter-label",
+        "tag": "SPAN",
+        "text": "Active visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-date-filter-toggle",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Filter visits by date"
+      },
+      {
+        "testId": "visit-search-toggle",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Search visits"
+      },
+      {
+        "testId": "VisitList-List",
+        "tag": "DIV",
+        "text": "Today John Smith 6:13 AM · Demo visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-item-button",
+        "tag": "DIV",
+        "text": "John Smith 6:13 AM · Demo visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-state-new",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-visit-select",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Select"
+      },
+      {
+        "testId": "menu-visit-delete-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Move to Trash"
+      },
+      {
+        "testId": "new-template-selector",
+        "tag": "BUTTON",
+        "text": "Returning Patient",
+        "ariaLabel": null
+      },
+      {
+        "testId": "upload-recording",
+        "tag": "INPUT",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "record-button",
+        "tag": "BUTTON",
+        "text": "Capture",
+        "ariaLabel": "Capture"
+      },
+      {
+        "testId": "upload-transcript-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Upload transcript"
+      },
+      {
+        "testId": "PatientNameForVisit-TextField",
+        "tag": "INPUT",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "test-audio-popup",
+        "tag": "DIV",
+        "text": "Let's test your audio Select microphone Fake Default Audio Input ​ Input level Confirm",
+        "ariaLabel": null
+      },
+      {
+        "testId": "test-audio-popup-close",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CloseIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "test-audio-popup-select",
+        "tag": "DIV",
+        "text": "Fake Default Audio Input ​",
+        "ariaLabel": null
+      },
+      {
+        "testId": "ArrowDropDownIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "audio-level-meter",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Visits",
+        "ariaLabel": null,
+        "testId": "aiux-sidenav-visits"
+      },
+      {
+        "text": "Templates",
+        "ariaLabel": null,
+        "testId": null
+      },
+      {
+        "text": "EHR Push",
+        "ariaLabel": null,
+        "testId": "aiux-sidenav-ehr"
+      },
+      {
+        "text": "Subscribe",
+        "ariaLabel": null,
+        "testId": "subscribe-nav-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "aiux-settings-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "help-center-nav-icon"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "menu-appbar"
+      },
+      {
+        "text": "New visit",
+        "ariaLabel": null,
+        "testId": "aiux-new-visit-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Collapse visits",
+        "testId": null
+      },
+      {
+        "text": "Active visits",
+        "ariaLabel": "Change visit list. Current: Active visits",
+        "testId": "aiux-filter-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Filter visits by date",
+        "testId": "visit-date-filter-toggle"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Search visits",
+        "testId": "visit-search-toggle"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Select",
+        "testId": "aiux-visit-select"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Move to Trash",
+        "testId": "menu-visit-delete-button"
+      },
+      {
+        "text": "Returning Patient",
+        "ariaLabel": null,
+        "testId": "new-template-selector"
+      },
+      {
+        "text": "Capture",
+        "ariaLabel": "Capture",
+        "testId": "record-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Upload transcript",
+        "testId": "upload-transcript-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "test-audio-popup-close"
+      },
+      {
+        "text": "Confirm",
+        "ariaLabel": null,
+        "testId": null
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "ariaLabel": null,
+        "testId": "upload-recording"
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "placeholder": "Select or add patient",
+        "ariaLabel": null,
+        "testId": "PatientNameForVisit-TextField"
+      },
+      {
+        "tag": "INPUT",
+        "type": null,
+        "placeholder": null,
+        "ariaLabel": null,
+        "testId": null
+      }
+    ]
+  },
+  {
+    "stepName": "06-Visit-Search-Open",
+    "fileName": "38-auth-visit-search.png",
+    "url": "https://secure.getfreed.ai/record",
+    "bodyText": "Visits\n\nTemplates\n\nEHR Push\n\nSubscribe\n\nAR\n\nNew visit\n\nToday\n\nJohn Smith\n\n6:13 AM · Demo visit\n\nReturning Patient\n\nCapture\n\nLet's get started. Add your patient's name\n\n​\nLet's test your audio\n\nSelect microphone\n\nFake Default Audio Input\n​\n\nInput level\n\nConfirm",
+    "testIds": [
+      {
+        "testId": "aiux-app",
+        "tag": "DIV",
+        "text": "Visits Templates EHR Push Subscribe AR New visit Today John Smith 6:13 AM · Demo visit Returning Patient Capture Let's g",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-visits",
+        "tag": "BUTTON",
+        "text": "Visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-ehr",
+        "tag": "BUTTON",
+        "text": "EHR Push",
+        "ariaLabel": null
+      },
+      {
+        "testId": "subscribe-nav-button",
+        "tag": "BUTTON",
+        "text": "Subscribe",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-settings-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "help-center-nav-icon",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "menu-appbar",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-schedule-panel",
+        "tag": "DIV",
+        "text": "New visit Today John Smith 6:13 AM · Demo visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-new-visit-button",
+        "tag": "BUTTON",
+        "text": "New visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-search-input",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-search-close",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "VisitList-List",
+        "tag": "DIV",
+        "text": "Today John Smith 6:13 AM · Demo visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-item-button",
+        "tag": "DIV",
+        "text": "John Smith 6:13 AM · Demo visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-state-new",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-visit-select",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Select"
+      },
+      {
+        "testId": "menu-visit-delete-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Move to Trash"
+      },
+      {
+        "testId": "new-template-selector",
+        "tag": "BUTTON",
+        "text": "Returning Patient",
+        "ariaLabel": null
+      },
+      {
+        "testId": "upload-recording",
+        "tag": "INPUT",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "record-button",
+        "tag": "BUTTON",
+        "text": "Capture",
+        "ariaLabel": "Capture"
+      },
+      {
+        "testId": "upload-transcript-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Upload transcript"
+      },
+      {
+        "testId": "PatientNameForVisit-TextField",
+        "tag": "INPUT",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "test-audio-popup",
+        "tag": "DIV",
+        "text": "Let's test your audio Select microphone Fake Default Audio Input ​ Input level Confirm",
+        "ariaLabel": null
+      },
+      {
+        "testId": "test-audio-popup-close",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CloseIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "test-audio-popup-select",
+        "tag": "DIV",
+        "text": "Fake Default Audio Input ​",
+        "ariaLabel": null
+      },
+      {
+        "testId": "ArrowDropDownIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "audio-level-meter",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Visits",
+        "ariaLabel": null,
+        "testId": "aiux-sidenav-visits"
+      },
+      {
+        "text": "Templates",
+        "ariaLabel": null,
+        "testId": null
+      },
+      {
+        "text": "EHR Push",
+        "ariaLabel": null,
+        "testId": "aiux-sidenav-ehr"
+      },
+      {
+        "text": "Subscribe",
+        "ariaLabel": null,
+        "testId": "subscribe-nav-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "aiux-settings-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "help-center-nav-icon"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "menu-appbar"
+      },
+      {
+        "text": "New visit",
+        "ariaLabel": null,
+        "testId": "aiux-new-visit-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Collapse visits",
+        "testId": null
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "visit-search-close"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Select",
+        "testId": "aiux-visit-select"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Move to Trash",
+        "testId": "menu-visit-delete-button"
+      },
+      {
+        "text": "Returning Patient",
+        "ariaLabel": null,
+        "testId": "new-template-selector"
+      },
+      {
+        "text": "Capture",
+        "ariaLabel": "Capture",
+        "testId": "record-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Upload transcript",
+        "testId": "upload-transcript-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "test-audio-popup-close"
+      },
+      {
+        "text": "Confirm",
+        "ariaLabel": null,
+        "testId": null
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "placeholder": "Search by name",
+        "ariaLabel": "Search visits",
+        "testId": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "file",
+        "placeholder": null,
+        "ariaLabel": null,
+        "testId": "upload-recording"
+      },
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "placeholder": "Select or add patient",
+        "ariaLabel": null,
+        "testId": "PatientNameForVisit-TextField"
+      },
+      {
+        "tag": "INPUT",
+        "type": null,
+        "placeholder": null,
+        "ariaLabel": null,
+        "testId": null
+      }
+    ]
+  },
+  {
+    "stepName": "08-Settings-Panel",
+    "fileName": "40-auth-settings-panel.png",
+    "url": "https://secure.getfreed.ai/settings/preferences",
+    "bodyText": "Visits\n\nSubscribe\n\nAR\nBack to app\nSettings\n\nPersonal\n\nProfile\n\nPreferences\n\nTeam and Access\n\nMembers\n\nPlan and Billing\n\nSubscription\n\nIntegrations\n\nConnections\n\nPreferences\nSecurity\n\nPassword\n\nYour password associated with your login email.\n\nChange password\n\nEmail\n\ndr.alex.rivera.732444@maxxspace.com\n\nChange email\n\n2-step verification\n\nAdd an additional layer of security to your Freed account.\n\nAdd 2-step verification\nScribe preferences\n\nDelete note records after 30 days?\n\nDeleted notes won't affect your learned templates.\n\nHow should your note refer to the patient?\n\nThis is how your patient will be referred to in your notes.\n\nPatient\n​\n\nInclude Freed AI disclosure\n\nAdd \"Note composed with Freed.ai.\" when you copy or push to your EHR.\n\nHide section headers when copying\n\nOmit SOAP headers (Subjective, Objective, Assessment & Plan) from Copy All output.\n\nDark mode\n\nChoose a theme for the new Freed workspace. Learn more about options\n\nLight\n​\nEHR push preferences\n\nPreferences for Aarista. Edit EHR in Profile\n\nThere are no customizable push preferences for Aarista.",
+    "testIds": [
+      {
+        "testId": "aiux-app",
+        "tag": "DIV",
+        "text": "Visits Subscribe AR Back to app Settings Personal Profile Preferences Team and Access Members Plan and Billing Subscript",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-visits",
+        "tag": "BUTTON",
+        "text": "Visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "subscribe-nav-button",
+        "tag": "BUTTON",
+        "text": "Subscribe",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-settings-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "help-center-nav-icon",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "menu-appbar",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "settings-nav-sidebar",
+        "tag": "NAV",
+        "text": "Back to app Settings Personal Profile Preferences Team and Access Members Plan and Billing Subscription Integrations Con",
+        "ariaLabel": "Settings navigation"
+      },
+      {
+        "testId": "aiux-settings-back-to-app",
+        "tag": "BUTTON",
+        "text": "Back to app",
+        "ariaLabel": null
+      },
+      {
+        "testId": "settings-nav-section-personal",
+        "tag": "DIV",
+        "text": "Personal Profile Preferences",
+        "ariaLabel": null
+      },
+      {
+        "testId": "settings-nav-item-profile",
+        "tag": "DIV",
+        "text": "Profile",
+        "ariaLabel": null
+      },
+      {
+        "testId": "settings-nav-item-preferences",
+        "tag": "DIV",
+        "text": "Preferences",
+        "ariaLabel": null
+      },
+      {
+        "testId": "settings-nav-section-team-and-access",
+        "tag": "DIV",
+        "text": "Team and Access Members",
+        "ariaLabel": null
+      },
+      {
+        "testId": "settings-nav-item-members",
+        "tag": "DIV",
+        "text": "Members",
+        "ariaLabel": null
+      },
+      {
+        "testId": "settings-nav-section-plan-and-billing",
+        "tag": "DIV",
+        "text": "Plan and Billing Subscription",
+        "ariaLabel": null
+      },
+      {
+        "testId": "settings-nav-item-invoices",
+        "tag": "DIV",
+        "text": "Subscription",
+        "ariaLabel": null
+      },
+      {
+        "testId": "settings-nav-section-integrations",
+        "tag": "DIV",
+        "text": "Integrations Connections",
+        "ariaLabel": null
+      },
+      {
+        "testId": "settings-nav-item-connections",
+        "tag": "DIV",
+        "text": "Connections",
+        "ariaLabel": null
+      },
+      {
+        "testId": "settings-preferences",
+        "tag": "DIV",
+        "text": "Preferences Security Password Your password associated with your login email. Change password Email dr.alex.rivera.73244",
+        "ariaLabel": null
+      },
+      {
+        "testId": "account-settings-change-password-button",
+        "tag": "BUTTON",
+        "text": "Change password",
+        "ariaLabel": null
+      },
+      {
+        "testId": "account-settings-change-email-button",
+        "tag": "BUTTON",
+        "text": "Change email",
+        "ariaLabel": null
+      },
+      {
+        "testId": "account-settings-mfa-button",
+        "tag": "BUTTON",
+        "text": "Add 2-step verification",
+        "ariaLabel": null
+      },
+      {
+        "testId": "account-retention-setting-toggle",
+        "tag": "SPAN",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "patient-title-selector",
+        "tag": "DIV",
+        "text": "Patient ​",
+        "ariaLabel": "patient title preference"
+      },
+      {
+        "testId": "ArrowDropDownIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "freed-ai-disclosure-setting",
+        "tag": "SPAN",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "hide-headers-setting",
+        "tag": "SPAN",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "dark-mode-setting-row",
+        "tag": "DIV",
+        "text": "Dark mode Choose a theme for the new Freed workspace. Learn more about options Light ​",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-dark-mode-theme-learn-more",
+        "tag": "BUTTON",
+        "text": "Learn more about options",
+        "ariaLabel": "Learn more about theme options"
+      },
+      {
+        "testId": "aiux-color-mode-selector",
+        "tag": "DIV",
+        "text": "Light ​",
+        "ariaLabel": null
+      },
+      {
+        "testId": "ArrowDropDownIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "settings-ehr-push-preferences",
+        "tag": "SECTION",
+        "text": "EHR push preferences Preferences for Aarista. Edit EHR in Profile There are no customizable push preferences for Aarista",
+        "ariaLabel": null
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Visits",
+        "ariaLabel": null,
+        "testId": "aiux-sidenav-visits"
+      },
+      {
+        "text": "Subscribe",
+        "ariaLabel": null,
+        "testId": "subscribe-nav-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "aiux-settings-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "help-center-nav-icon"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "menu-appbar"
+      },
+      {
+        "text": "Back to app",
+        "ariaLabel": null,
+        "testId": "aiux-settings-back-to-app"
+      },
+      {
+        "text": "Profile",
+        "ariaLabel": null,
+        "testId": "settings-nav-item-profile"
+      },
+      {
+        "text": "Preferences",
+        "ariaLabel": null,
+        "testId": "settings-nav-item-preferences"
+      },
+      {
+        "text": "Members",
+        "ariaLabel": null,
+        "testId": "settings-nav-item-members"
+      },
+      {
+        "text": "Subscription",
+        "ariaLabel": null,
+        "testId": "settings-nav-item-invoices"
+      },
+      {
+        "text": "Connections",
+        "ariaLabel": null,
+        "testId": "settings-nav-item-connections"
+      },
+      {
+        "text": "Change password",
+        "ariaLabel": null,
+        "testId": "account-settings-change-password-button"
+      },
+      {
+        "text": "Change email",
+        "ariaLabel": null,
+        "testId": "account-settings-change-email-button"
+      },
+      {
+        "text": "Add 2-step verification",
+        "ariaLabel": null,
+        "testId": "account-settings-mfa-button"
+      },
+      {
+        "text": "Learn more about options",
+        "ariaLabel": "Learn more about theme options",
+        "testId": "aiux-dark-mode-theme-learn-more"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "placeholder": null,
+        "ariaLabel": "controlled",
+        "testId": null
+      },
+      {
+        "tag": "INPUT",
+        "type": null,
+        "placeholder": null,
+        "ariaLabel": null,
+        "testId": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "placeholder": null,
+        "ariaLabel": null,
+        "testId": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "placeholder": null,
+        "ariaLabel": null,
+        "testId": null
+      },
+      {
+        "tag": "INPUT",
+        "type": null,
+        "placeholder": null,
+        "ariaLabel": null,
+        "testId": null
+      }
+    ]
+  },
+  {
+    "stepName": "09-Subscribe-Modal-Or-Page",
+    "fileName": "41-auth-subscribe-plans.png",
+    "url": "https://secure.getfreed.ai/subscribe",
+    "bodyText": "Visits\n\nSubscribe\n\nAR\n\nWhich plan would you like?\n\nMonthly\nAnnually\n\nStarter\n\nFlexible AI scribe for limited volumes\n\n$39/mo\n\nSubscribe\n\nUp to 40 notes per month\n\nSpecialty-specific customizable templates\n\nWorld class live support\n\nCore\n\nThe best AI scribe for clinicians\n\n$79/mo\n\n​\nSubscribe\n\nEverything in Starter, plus:\n\nUnlimited note generation\n\nLive onboarding\n\nAI clinician assistant for editing\n\nInstant template builder\n\nPremier\n\nYour trial\nMost popular\n\nThe full suite of AI tools\n\n$119/mo\n\n​\nSubscribe\n\nIncludes everything in Core, plus:\n\nPrior visit summaries and context pull forward\n\nInstant patient instructions, letters, and referrals\n\nEHR push integration\n\nAI clinician assistant with medical knowledge base\n\nICD-10 coding (and CPT codes in beta)\n\nGroups\n\nThe all-in-one platform\n\nCustom\n\nContact sales\n\nIncludes everything in Premier, plus:\n\nMedical Assistant users (in alpha)\n\nPatient sharing (in beta)\n\nLive clinic onboarding\n\nSingle sign-on (SSO)\n\nAdmin dashboards and custom configurations\n\nDedicated account manager\n\nview full plan details",
+    "testIds": [
+      {
+        "testId": "aiux-app",
+        "tag": "DIV",
+        "text": "Visits Subscribe AR Which plan would you like? Monthly Annually Starter Flexible AI scribe for limited volumes $39/mo Su",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-visits",
+        "tag": "BUTTON",
+        "text": "Visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "subscribe-nav-button",
+        "tag": "BUTTON",
+        "text": "Subscribe",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-settings-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "help-center-nav-icon",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "menu-appbar",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-schedule-panel",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-new-visit-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-search-input",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-search-close",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "VisitList-List",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-item-button",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-state-new",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-visit-select",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Select"
+      },
+      {
+        "testId": "menu-visit-delete-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Move to Trash"
+      },
+      {
+        "testId": "billing-cycle-toggle",
+        "tag": "DIV",
+        "text": "Monthly Annually",
+        "ariaLabel": "billing cycle"
+      },
+      {
+        "testId": "billing-cycle-monthly",
+        "tag": "BUTTON",
+        "text": "Monthly",
+        "ariaLabel": "monthly billing"
+      },
+      {
+        "testId": "billing-cycle-annual",
+        "tag": "BUTTON",
+        "text": "Annually",
+        "ariaLabel": "annual billing"
+      },
+      {
+        "testId": "starter-pricing-card",
+        "tag": "DIV",
+        "text": "Starter Flexible AI scribe for limited volumes $39/mo Subscribe Up to 40 notes per month Specialty-specific customizable",
+        "ariaLabel": null
+      },
+      {
+        "testId": "starter-tier-name",
+        "tag": "P",
+        "text": "Starter",
+        "ariaLabel": null
+      },
+      {
+        "testId": "starter-price-rate",
+        "tag": "P",
+        "text": "$39/mo",
+        "ariaLabel": null
+      },
+      {
+        "testId": "starter-subscribe-button",
+        "tag": "BUTTON",
+        "text": "Subscribe",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "core-pricing-card",
+        "tag": "DIV",
+        "text": "Core The best AI scribe for clinicians $79/mo ​ Subscribe Everything in Starter, plus: Unlimited note generation Live on",
+        "ariaLabel": null
+      },
+      {
+        "testId": "core-tier-name",
+        "tag": "P",
+        "text": "Core",
+        "ariaLabel": null
+      },
+      {
+        "testId": "core-price-rate",
+        "tag": "P",
+        "text": "$79/mo",
+        "ariaLabel": null
+      },
+      {
+        "testId": "core-seats-select",
+        "tag": "DIV",
+        "text": "​",
+        "ariaLabel": null
+      },
+      {
+        "testId": "core-subscribe-button",
+        "tag": "BUTTON",
+        "text": "Subscribe",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "premier-pricing-card",
+        "tag": "DIV",
+        "text": "Premier Your trial Most popular The full suite of AI tools $119/mo ​ Subscribe Includes everything in Core, plus: Prior ",
+        "ariaLabel": null
+      },
+      {
+        "testId": "premier-tier-name",
+        "tag": "P",
+        "text": "Premier",
+        "ariaLabel": null
+      },
+      {
+        "testId": "premier-trial-badge",
+        "tag": "DIV",
+        "text": "Your trial",
+        "ariaLabel": null
+      },
+      {
+        "testId": "premier-price-rate",
+        "tag": "P",
+        "text": "$119/mo",
+        "ariaLabel": null
+      },
+      {
+        "testId": "premier-seats-select",
+        "tag": "DIV",
+        "text": "​",
+        "ariaLabel": null
+      },
+      {
+        "testId": "premier-subscribe-button",
+        "tag": "BUTTON",
+        "text": "Subscribe",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "groups-pricing-card",
+        "tag": "DIV",
+        "text": "Groups The all-in-one platform Custom Contact sales Includes everything in Premier, plus: Medical Assistant users (in al",
+        "ariaLabel": null
+      },
+      {
+        "testId": "groups-tier-name",
+        "tag": "P",
+        "text": "Groups",
+        "ariaLabel": null
+      },
+      {
+        "testId": "groups-contact-sales-button",
+        "tag": "BUTTON",
+        "text": "Contact sales",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "full-plan-details",
+        "tag": "A",
+        "text": "view full plan details",
+        "ariaLabel": null
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Visits",
+        "ariaLabel": null,
+        "testId": "aiux-sidenav-visits"
+      },
+      {
+        "text": "Subscribe",
+        "ariaLabel": null,
+        "testId": "subscribe-nav-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "aiux-settings-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "help-center-nav-icon"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "menu-appbar"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "aiux-new-visit-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Pin schedule",
+        "testId": null
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "visit-search-close"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Select",
+        "testId": "aiux-visit-select"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Move to Trash",
+        "testId": "menu-visit-delete-button"
+      },
+      {
+        "text": "Monthly",
+        "ariaLabel": "monthly billing",
+        "testId": "billing-cycle-monthly"
+      },
+      {
+        "text": "Annually",
+        "ariaLabel": "annual billing",
+        "testId": "billing-cycle-annual"
+      },
+      {
+        "text": "Subscribe",
+        "ariaLabel": null,
+        "testId": "starter-subscribe-button"
+      },
+      {
+        "text": "Subscribe",
+        "ariaLabel": null,
+        "testId": "core-subscribe-button"
+      },
+      {
+        "text": "Subscribe",
+        "ariaLabel": null,
+        "testId": "premier-subscribe-button"
+      },
+      {
+        "text": "Contact sales",
+        "ariaLabel": null,
+        "testId": "groups-contact-sales-button"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "placeholder": "Search by name",
+        "ariaLabel": "Search visits",
+        "testId": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "number",
+        "placeholder": null,
+        "ariaLabel": null,
+        "testId": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "number",
+        "placeholder": null,
+        "ariaLabel": null,
+        "testId": null
+      }
+    ]
+  },
+  {
+    "stepName": "10-User-Account-Menu",
+    "fileName": "42-auth-user-account-menu.png",
+    "url": "https://secure.getfreed.ai/subscribe",
+    "bodyText": "Visits\n\nSubscribe\n\nAR\n\nWhich plan would you like?\n\nMonthly\nAnnually\n\nStarter\n\nFlexible AI scribe for limited volumes\n\n$39/mo\n\nSubscribe\n\nUp to 40 notes per month\n\nSpecialty-specific customizable templates\n\nWorld class live support\n\nCore\n\nThe best AI scribe for clinicians\n\n$79/mo\n\n​\nSubscribe\n\nEverything in Starter, plus:\n\nUnlimited note generation\n\nLive onboarding\n\nAI clinician assistant for editing\n\nInstant template builder\n\nPremier\n\nYour trial\nMost popular\n\nThe full suite of AI tools\n\n$119/mo\n\n​\nSubscribe\n\nIncludes everything in Core, plus:\n\nPrior visit summaries and context pull forward\n\nInstant patient instructions, letters, and referrals\n\nEHR push integration\n\nAI clinician assistant with medical knowledge base\n\nICD-10 coding (and CPT codes in beta)\n\nGroups\n\nThe all-in-one platform\n\nCustom\n\nContact sales\n\nIncludes everything in Premier, plus:\n\nMedical Assistant users (in alpha)\n\nPatient sharing (in beta)\n\nLive clinic onboarding\n\nSingle sign-on (SSO)\n\nAdmin dashboards and custom configurations\n\nDedicated account manager\n\nview full plan details\n\nProfile\nManage team\nSubscribe\nLogout",
+    "testIds": [
+      {
+        "testId": "aiux-app",
+        "tag": "DIV",
+        "text": "Visits Subscribe AR Which plan would you like? Monthly Annually Starter Flexible AI scribe for limited volumes $39/mo Su",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-visits",
+        "tag": "BUTTON",
+        "text": "Visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "subscribe-nav-button",
+        "tag": "BUTTON",
+        "text": "Subscribe",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-settings-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "help-center-nav-icon",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "menu-appbar",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-schedule-panel",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-new-visit-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-search-input",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-search-close",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "VisitList-List",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-item-button",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-state-new",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-visit-select",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Select"
+      },
+      {
+        "testId": "menu-visit-delete-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Move to Trash"
+      },
+      {
+        "testId": "billing-cycle-toggle",
+        "tag": "DIV",
+        "text": "Monthly Annually",
+        "ariaLabel": "billing cycle"
+      },
+      {
+        "testId": "billing-cycle-monthly",
+        "tag": "BUTTON",
+        "text": "Monthly",
+        "ariaLabel": "monthly billing"
+      },
+      {
+        "testId": "billing-cycle-annual",
+        "tag": "BUTTON",
+        "text": "Annually",
+        "ariaLabel": "annual billing"
+      },
+      {
+        "testId": "starter-pricing-card",
+        "tag": "DIV",
+        "text": "Starter Flexible AI scribe for limited volumes $39/mo Subscribe Up to 40 notes per month Specialty-specific customizable",
+        "ariaLabel": null
+      },
+      {
+        "testId": "starter-tier-name",
+        "tag": "P",
+        "text": "Starter",
+        "ariaLabel": null
+      },
+      {
+        "testId": "starter-price-rate",
+        "tag": "P",
+        "text": "$39/mo",
+        "ariaLabel": null
+      },
+      {
+        "testId": "starter-subscribe-button",
+        "tag": "BUTTON",
+        "text": "Subscribe",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "core-pricing-card",
+        "tag": "DIV",
+        "text": "Core The best AI scribe for clinicians $79/mo ​ Subscribe Everything in Starter, plus: Unlimited note generation Live on",
+        "ariaLabel": null
+      },
+      {
+        "testId": "core-tier-name",
+        "tag": "P",
+        "text": "Core",
+        "ariaLabel": null
+      },
+      {
+        "testId": "core-price-rate",
+        "tag": "P",
+        "text": "$79/mo",
+        "ariaLabel": null
+      },
+      {
+        "testId": "core-seats-select",
+        "tag": "DIV",
+        "text": "​",
+        "ariaLabel": null
+      },
+      {
+        "testId": "core-subscribe-button",
+        "tag": "BUTTON",
+        "text": "Subscribe",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "premier-pricing-card",
+        "tag": "DIV",
+        "text": "Premier Your trial Most popular The full suite of AI tools $119/mo ​ Subscribe Includes everything in Core, plus: Prior ",
+        "ariaLabel": null
+      },
+      {
+        "testId": "premier-tier-name",
+        "tag": "P",
+        "text": "Premier",
+        "ariaLabel": null
+      },
+      {
+        "testId": "premier-trial-badge",
+        "tag": "DIV",
+        "text": "Your trial",
+        "ariaLabel": null
+      },
+      {
+        "testId": "premier-price-rate",
+        "tag": "P",
+        "text": "$119/mo",
+        "ariaLabel": null
+      },
+      {
+        "testId": "premier-seats-select",
+        "tag": "DIV",
+        "text": "​",
+        "ariaLabel": null
+      },
+      {
+        "testId": "premier-subscribe-button",
+        "tag": "BUTTON",
+        "text": "Subscribe",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "groups-pricing-card",
+        "tag": "DIV",
+        "text": "Groups The all-in-one platform Custom Contact sales Includes everything in Premier, plus: Medical Assistant users (in al",
+        "ariaLabel": null
+      },
+      {
+        "testId": "groups-tier-name",
+        "tag": "P",
+        "text": "Groups",
+        "ariaLabel": null
+      },
+      {
+        "testId": "groups-contact-sales-button",
+        "tag": "BUTTON",
+        "text": "Contact sales",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "CheckIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "full-plan-details",
+        "tag": "A",
+        "text": "view full plan details",
+        "ariaLabel": null
+      },
+      {
+        "testId": "AppMenu-Profile",
+        "tag": "LI",
+        "text": "Profile",
+        "ariaLabel": null
+      },
+      {
+        "testId": "AppMenu-ManageTeam",
+        "tag": "LI",
+        "text": "Manage team",
+        "ariaLabel": null
+      },
+      {
+        "testId": "AppMenu-Subscribe",
+        "tag": "LI",
+        "text": "Subscribe",
+        "ariaLabel": null
+      },
+      {
+        "testId": "logout-menu-item",
+        "tag": "LI",
+        "text": "Logout",
+        "ariaLabel": null
+      },
+      {
+        "testId": "LogoutIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Visits",
+        "ariaLabel": null,
+        "testId": "aiux-sidenav-visits"
+      },
+      {
+        "text": "Subscribe",
+        "ariaLabel": null,
+        "testId": "subscribe-nav-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "aiux-settings-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "help-center-nav-icon"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "menu-appbar"
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "aiux-new-visit-button"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Pin schedule",
+        "testId": null
+      },
+      {
+        "text": "",
+        "ariaLabel": null,
+        "testId": "visit-search-close"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Select",
+        "testId": "aiux-visit-select"
+      },
+      {
+        "text": "",
+        "ariaLabel": "Move to Trash",
+        "testId": "menu-visit-delete-button"
+      },
+      {
+        "text": "Monthly",
+        "ariaLabel": "monthly billing",
+        "testId": "billing-cycle-monthly"
+      },
+      {
+        "text": "Annually",
+        "ariaLabel": "annual billing",
+        "testId": "billing-cycle-annual"
+      },
+      {
+        "text": "Subscribe",
+        "ariaLabel": null,
+        "testId": "starter-subscribe-button"
+      },
+      {
+        "text": "Subscribe",
+        "ariaLabel": null,
+        "testId": "core-subscribe-button"
+      },
+      {
+        "text": "Subscribe",
+        "ariaLabel": null,
+        "testId": "premier-subscribe-button"
+      },
+      {
+        "text": "Contact sales",
+        "ariaLabel": null,
+        "testId": "groups-contact-sales-button"
+      },
+      {
+        "text": "Profile",
+        "ariaLabel": null,
+        "testId": "AppMenu-Profile"
+      },
+      {
+        "text": "Manage team",
+        "ariaLabel": null,
+        "testId": "AppMenu-ManageTeam"
+      },
+      {
+        "text": "Subscribe",
+        "ariaLabel": null,
+        "testId": "AppMenu-Subscribe"
+      },
+      {
+        "text": "Logout",
+        "ariaLabel": null,
+        "testId": "logout-menu-item"
+      }
+    ],
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "text",
+        "placeholder": "Search by name",
+        "ariaLabel": "Search visits",
+        "testId": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "number",
+        "placeholder": null,
+        "ariaLabel": null,
+        "testId": null
+      },
+      {
+        "tag": "INPUT",
+        "type": "number",
+        "placeholder": null,
+        "ariaLabel": null,
+        "testId": null
+      }
+    ]
+  }
+]

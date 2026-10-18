@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+:root {
+  --freed-cream: #fdfbf9;
+  --freed-sky: #f3fafe;
+  --freed-navy: #0e2954;
+  --freed-teal: #176b87;
+  --freed-accent: #2c7be5;
+  --freed-mint: #00b894;
+  --freed-border: #e5e7eb;
+}
+
+body {
+  background-color: var(--freed-cream);
+  color: #111827;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom scrollbar for clinical workspace panes */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(156, 163, 175, 0.45);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(107, 114, 128, 0.7);
+}
+
+@keyframes pulseWave {
+  0%, 100% {
+    transform: scaleY(0.35);
+  }
+  50% {
+    transform: scaleY(1);
+  }
+}
+
+.animate-wave-bar {
+  animation: pulseWave 1.1s ease-in-out infinite;
+}

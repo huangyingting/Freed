@@ -1,0 +1,35 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: freed
+      POSTGRES_PASSWORD: freed_secure_password
+      POSTGRES_DB: freed_prod
+    ports:
+      - "5432:5432"
+    volumes:
+      - freed_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U freed -d freed_prod"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  freed-web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      DATABASE_URL: "postgresql://freed:freed_secure_password@postgres:5432/freed_prod?schema=public"
+      NEXTAUTH_URL: "http://localhost:3000"
+      NEXTAUTH_SECRET: "freed-production-secret-change-in-env"
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+volumes:
+  freed_pgdata:

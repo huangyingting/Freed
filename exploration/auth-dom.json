@@ -1,0 +1,93 @@
+{
+  "signupDOM": {
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": null,
+        "ariaLabel": "Email input field",
+        "required": false
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": null,
+        "ariaLabel": "Password input field",
+        "required": false
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "ariaLabel": null,
+        "required": false
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Create Account",
+        "type": "submit",
+        "id": ""
+      },
+      {
+        "text": "Sign in",
+        "type": "button",
+        "id": ""
+      }
+    ],
+    "bodyText": "Try Freed for 7 days.\nJoin the 25,000+ clinicians saving 2-hours a day with Freed's instant HIPAA-compliant clinical notes.\n\n“I have more time to spend doing other things I enjoy - getting home early, rather than staying late at the office trying to finish my charts or taking my charts home and doing them over the weekend.”\n\nOlusesan, MD\n\nFamily Medicine\n\nCreate Your Freed Account\n\n7-day trial. Unlimited visits. No credit card needed.\n\nEmail\n​\nPassword\n​\n\nI agree to the terms of Freed's privacy policy, terms of use, and BAA.\n\nCreate Account\n\nAlready have an account? Sign in\n\nYour data is protected with HIPAA-compliant encryption."
+  },
+  "loginDOM": {
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "email",
+        "name": null,
+        "id": "email-input",
+        "placeholder": null,
+        "ariaLabel": "Email input field"
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": null,
+        "id": "password-input",
+        "placeholder": null,
+        "ariaLabel": "Password input field"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Forgot your password?",
+        "href": null
+      },
+      {
+        "text": "Sign in",
+        "href": null
+      },
+      {
+        "text": "Sign in with Google",
+        "href": null
+      },
+      {
+        "text": "Sign in with SSO",
+        "href": null
+      },
+      {
+        "text": "Sign up",
+        "href": null
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://help.getfreed.ai/en/articles/9879953-privacy-policy"
+      }
+    ],
+    "bodyText": "Sign in to your Freed account\nEmail\n​\nPassword\nForgot your password?\n​\n\nSign in\n\nOR\n\nSign in with Google\n\nSign in with SSO\n\nDon't have an account? Sign up\n\nPrivacy Policy"
+  }
+}

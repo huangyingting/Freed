@@ -1,0 +1,52 @@
+{
+  "postSignupDOM": {
+    "url": "https://secure.getfreed.ai/signup",
+    "title": "Freed",
+    "bodyText": "Try Freed for 7 days.\nJoin the 25,000+ clinicians saving 2-hours a day with Freed's instant HIPAA-compliant clinical notes.\n\n“I have more time to spend doing other things I enjoy - getting home early, rather than staying late at the office trying to finish my charts or taking my charts home and doing them over the weekend.”\n\nOlusesan, MD\n\nFamily Medicine\n\nCreate Your Freed Account\n\n7-day trial. Unlimited visits. No credit card needed.\n\nPlease provide a valid email address when signing up.\n\nEmail\n​\nPassword\n​\nGreat\nPassword tips\n\nI agree to the terms of Freed's privacy policy, terms of use, and BAA.\n\nCreate Account\n\nAlready have an account? Sign in\n\nYour data is protected with HIPAA-compliant encryption.",
+    "inputs": [
+      {
+        "tag": "INPUT",
+        "type": "email",
+        "name": "email",
+        "id": "email",
+        "placeholder": null,
+        "ariaLabel": "Email input field"
+      },
+      {
+        "tag": "INPUT",
+        "type": "password",
+        "name": "password",
+        "id": "password",
+        "placeholder": null,
+        "ariaLabel": "Password input field"
+      },
+      {
+        "tag": "INPUT",
+        "type": "checkbox",
+        "name": null,
+        "id": "",
+        "placeholder": null,
+        "ariaLabel": null
+      }
+    ],
+    "buttons": [
+      {
+        "text": "privacy policy",
+        "href": "https://help.getfreed.ai/en/articles/9879953-privacy-policy"
+      },
+      {
+        "text": "terms of use, and BAA",
+        "href": "https://help.getfreed.ai/en/articles/9879697-platform-terms-of-use"
+      },
+      {
+        "text": "Create Account",
+        "href": null
+      },
+      {
+        "text": "Sign in",
+        "href": null
+      }
+    ]
+  },
+  "emails": []
+}

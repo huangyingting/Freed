@@ -1,0 +1,236 @@
+[
+  {
+    "label": "Workspace Landing",
+    "url": "https://secure.getfreed.ai/nux",
+    "title": "Freed",
+    "bodyText": "Visits\n\nSubscribe\n\nAR\n\nYour documentation\njust got faster\n\nGet started",
+    "links": [],
+    "buttons": [
+      {
+        "tag": "DIV",
+        "role": null,
+        "text": "Visits Subscribe AR",
+        "ariaLabel": null,
+        "id": "",
+        "testId": "aiux-app"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "Visits",
+        "ariaLabel": null,
+        "id": "",
+        "testId": "aiux-sidenav-visits"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "Subscribe",
+        "ariaLabel": null,
+        "id": "",
+        "testId": "subscribe-nav-button"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "",
+        "ariaLabel": null,
+        "id": "",
+        "testId": "aiux-settings-button"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "",
+        "ariaLabel": null,
+        "id": "menu-trigger-_r_k_",
+        "testId": "help-center-nav-icon"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "",
+        "ariaLabel": null,
+        "id": "menu-trigger-_r_q_",
+        "testId": "menu-appbar"
+      },
+      {
+        "tag": "DIV",
+        "role": null,
+        "text": "",
+        "ariaLabel": null,
+        "id": "",
+        "testId": "aiux-schedule-panel"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "",
+        "ariaLabel": null,
+        "id": "",
+        "testId": "aiux-new-visit-button"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "",
+        "ariaLabel": "Pin schedule",
+        "id": "",
+        "testId": null
+      },
+      {
+        "tag": "DIV",
+        "role": "checkbox",
+        "text": "",
+        "ariaLabel": "Select all",
+        "id": "",
+        "testId": "visit-all-checkbox"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "",
+        "ariaLabel": "Change visit list. Current: Active visits",
+        "id": "",
+        "testId": "aiux-filter-button"
+      },
+      {
+        "tag": "SPAN",
+        "role": null,
+        "text": "",
+        "ariaLabel": null,
+        "id": "",
+        "testId": "aiux-filter-label"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "",
+        "ariaLabel": "Filter visits by date",
+        "id": "",
+        "testId": "visit-date-filter-toggle"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "",
+        "ariaLabel": "Search visits",
+        "id": "",
+        "testId": "visit-search-toggle"
+      },
+      {
+        "tag": "DIV",
+        "role": null,
+        "text": "",
+        "ariaLabel": null,
+        "id": "",
+        "testId": "VisitList-List"
+      },
+      {
+        "tag": "DIV",
+        "role": null,
+        "text": "",
+        "ariaLabel": null,
+        "id": "",
+        "testId": "visit-item-button"
+      },
+      {
+        "tag": "DIV",
+        "role": null,
+        "text": "",
+        "ariaLabel": null,
+        "id": "",
+        "testId": "visit-state-new"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "",
+        "ariaLabel": "Select",
+        "id": "",
+        "testId": "aiux-visit-select"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "",
+        "ariaLabel": "Move to Trash",
+        "id": "",
+        "testId": "menu-visit-delete-button"
+      },
+      {
+        "tag": "DIV",
+        "role": "presentation",
+        "text": "Your documentation just got faster Get started",
+        "ariaLabel": null,
+        "id": "",
+        "testId": "aiux-welcome-modal"
+      },
+      {
+        "tag": "DIV",
+        "role": null,
+        "text": "",
+        "ariaLabel": null,
+        "id": "",
+        "testId": "sentinelStart"
+      },
+      {
+        "tag": "svg",
+        "role": null,
+        "text": "",
+        "ariaLabel": null,
+        "id": "",
+        "testId": "DescriptionOutlinedIcon"
+      },
+      {
+        "tag": "svg",
+        "role": null,
+        "text": "",
+        "ariaLabel": null,
+        "id": "",
+        "testId": "MicNoneOutlinedIcon"
+      },
+      {
+        "tag": "svg",
+        "role": null,
+        "text": "",
+        "ariaLabel": null,
+        "id": "",
+        "testId": "CheckCircleOutlinedIcon"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "",
+        "ariaLabel": null,
+        "id": "",
+        "testId": "aiux-welcome-start-demo-visit"
+      },
+      {
+        "tag": "P",
+        "role": null,
+        "text": "Your documentation just got faster",
+        "ariaLabel": null,
+        "id": "",
+        "testId": "aiux-welcome-title"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "Get started",
+        "ariaLabel": null,
+        "id": "",
+        "testId": "aiux-welcome-get-started"
+      },
+      {
+        "tag": "DIV",
+        "role": null,
+        "text": "",
+        "ariaLabel": null,
+        "id": "",
+        "testId": "sentinelEnd"
+      }
+    ],
+    "inputs": []
+  }
+]

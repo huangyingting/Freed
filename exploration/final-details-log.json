@@ -1,0 +1,2452 @@
+[
+  {
+    "stepName": "25-Template-Editor-Returning-Patient",
+    "fileName": "44-auth-template-editor.png",
+    "url": "https://secure.getfreed.ai/templates",
+    "bodyText": "Visits\n\nTemplates\n\nEHR Push\n\nSubscribe\n\nAR\nMy library\nFreed library\nPhrases\nNew template\nCustomize notes with your templates\n\nLearned templates customize notes to the template you select. Edit directly or through AI chat.\n\nLearned templates\nStructured templates\n\nTemplate name\n\n\t\n\nOwners\n\n\t\n\nLatest Activity\n\nsorted descending\n\t\n\n\nReturning Patient\n\nLearned template\n\n\t\n\nMe\n\n\t\n\n5 minutes ago\n\n\t\n\n\n\nNew Patient\n\nLearned template\n\n\t\n\nMe\n\n\t\n\n5 minutes ago\n\n\t\n\nRows per page:\n\n10\n\n1-2 of 2\n\n​\nLearned template\nVersion 1\nAuto Learn: Off\n\nYour example note\n\nThis example note shows how your ideal note should look. Edit it directly or use Learn format when you want Freed to learn from your edits.\n\nUse the example note to control:\n\nSections, headings, and their order\nParagraphs, bullets, and numbering\nTerminology, abbreviations, writing style, and detail\nNon-patient-specific boilerplate and special instructions\n\nAdd verbatim text\n\nUse quotation marks for non-patient-specific boilerplate that belongs in every note, such as a consent statement or signature.\n\nFreed avoids adding verbatim text that makes a patient-specific clinical claim, since applying it to every note could be unsafe. By default, such text may be omitted entirely or included only when it appears plausible for the encounter. If this makes verbatim text unreliable for your use case, combine it with a special instruction as shown under Add conditional and default text.\n\ne.g. \"Patient consented to the use of Freed to record and transcribe notes during this visit.\"\n\nAdd special instructions\n\nAdd conditional and default text\n\nSubjective\n\nJohn Smith, a 65-year-old male with a history of coronary artery disease, hypertension, and dyslipidemia, presents for routine follow-up. He reports feeling generally well since his last visit 6 months ago. He denies chest pain, palpitations, syncope, or dyspnea with his usual activities. He occasionally experiences mild shortness of breath when climbing more than one flight of stairs, which has been unchanged for several years.\r\n\r\nThe patient reports good medication adherence and has been monitoring his blood pressure at home with readings averaging 130s/80s. He walks 30 minutes daily for exercise and follows a low-sodium diet. He reports no issues with his weekly Ozempic injections and has been administering them as prescribed.\r\n\r\nMedical History  \r\n- Hypertension (diagnosed 2015)  \r\n- Dyslipidemia (diagnosed 2015)  \r\n- Type 2 diabetes mellitus (diagnosed 2018)\r\n\r\nSurgical History  \r\n- Percutaneous coronary intervention with stent placement to LAD (2020)  \r\n- Appendectomy (1985)\r\n\r\nMedications and Supplements  \r\n- Aspirin 81 mg PO daily  \r\n- Atorvastatin 40 mg PO daily   \r\n- Lisinopril 20 mg PO daily   \r\n- Metoprolol succinate 25 mg PO twice daily   \r\n- Metformin 1000 mg PO twice daily  \r\n- Semaglutide (Ozempic) 1 mg SC once weekly \r\n\r\nAllergies  \r\n- Penicillin (rash)\r\n\r\nFamily History  \r\n- Father: MI at age 60, deceased at 72  \r\n- Mother: Hypertension, deceased at 80 (stroke)  \r\n- Brother: Type 2 diabetes\r\n\r\nSocial History  \r\n- Tobacco: Former smoker, quit in 2019, 30 pack-year history  \r\n- Alcohol: Occasional, 1-2 drinks per week  \r\n- Exercise: Walks 30 minutes daily  \r\n- Diet: Following low-sodium, diabetic diet\r\n\r\nReview of Systems  \r\n- General: Denies fatigue, fever, weight changes  \r\n- Cardiovascular: Mild shortness of breath with significant exertion, denies chest pain, palpitations, orthopnea, PND, syncope, edema  \r\n- Respiratory: Denies cough, wheezing  \r\n- Gastrointestinal: Denies abdominal pain, nausea, vomiting  \r\n- Neurological: Denies dizziness, headaches, focal weakness\n\nObjective\n\nVital Signs  \r\n- Blood Pressure: 132/78 mmHg  \r\n- Heart Rate: 68 bpm  \r\n- Respiratory Rate: 16/min  \r\n- Weight: 185 lbs (84 kg)  \r\n- BMI: 28.3 \r\n\r\nPhysical Examination  \r\n- General: Well-appearing male in no apparent distress  \r\n- HEENT: Normocephalic, atraumatic. No carotid bruits  \r\n- Cardiovascular: Regular rate and rhythm. Normal S1, S2. No murmurs, gallops, or rubs. No JVD  \r\n- Respiratory: Clear to auscultation bilaterally. No wheezes, rales, or rhonchi  \r\n- Abdomen: Soft, non-tender, non-distended. No hepatosplenomegaly  \r\n- Extremities: No edema. Pulses 2+ and equal bilaterally\r\n\r\nLaboratory, Imaging, and Diagnostic Test Results  \r\n- Date: April 12, 2023  \r\n  - Lipid Panel:  \r\n    - Total Cholesterol: 158 mg/dL  \r\n    - LDL: 85 mg/dL  \r\n    - HDL: 42 mg/dL  \r\n    - Triglycerides: 140 mg/dL  \r\n  - HbA1c: 6.9%  \r\n  - BMP:  \r\n    - Glucose: 118 mg/dL  \r\n    - Creatinine: 1.0 mg/dL  \r\n    - eGFR: 74  \r\n    - Electrolytes: Within normal limits\r\n\r\n- Date: May 10, 2023  \r\n  - EKG: Normal sinus rhythm, rate 65. No ST-T wave changes. No significant change from previous\r\n\r\n- Date: November 15, 2022  \r\n  - Echocardiogram:  \r\n    - LVEF: 55%  \r\n    - Wall motion: Normal  \r\n    - Valves: No significant abnormalities  \r\n    - Chambers: Normal size\n\nAssessment & Plan\n\n65-year-old male with coronary artery disease status post PCI with stent to LAD (2020), hypertension, dyslipidemia, and type 2 diabetes mellitus, presenting for routine follow-up.\r\n\r\nCoronary Artery Disease  \r\nAssessment: Currently asymptomatic with stable exercise tolerance. Recent echocardiogram shows normal regional wall motion without evidence of ischemia and preserved ejection fraction of 55%. Today's EKG shows normal sinus rhythm without ischemic changes. Risk factors include hypertension, dyslipidemia, type 2 diabetes, and former smoking history. Patient remains adherent to guideline-directed medical therapy.  \r\nPlan:  \r\n- Continue aspirin 81 mg daily  \r\n- Continue atorvastatin 40 mg daily  \r\n- Continue metoprolol succinate 25 mg daily  \r\n- Schedule exercise stress test to assess functional capacity and for surveillance  \r\n- Encourage continued physical activity and cardiac risk factor modification  \r\n- Follow up in 6 months with lipid panel and comprehensive metabolic panel prior to visit\r\n\r\nHypertension  \r\nAssessment: Blood pressure today is 132/78 m",
+    "testIds": [
+      {
+        "testId": "aiux-app",
+        "tag": "DIV",
+        "text": "Visits Templates EHR Push Subscribe AR My library Freed library Phrases New template Customize notes with your templates",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-visits",
+        "tag": "BUTTON",
+        "text": "Visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-ehr",
+        "tag": "BUTTON",
+        "text": "EHR Push",
+        "ariaLabel": null
+      },
+      {
+        "testId": "subscribe-nav-button",
+        "tag": "BUTTON",
+        "text": "Subscribe",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-settings-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "help-center-nav-icon",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "menu-appbar",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-schedule-panel",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-new-visit-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-all-checkbox",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "Select all"
+      },
+      {
+        "testId": "aiux-filter-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Change visit list. Current: Active visits"
+      },
+      {
+        "testId": "aiux-filter-label",
+        "tag": "SPAN",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-date-filter-toggle",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Filter visits by date"
+      },
+      {
+        "testId": "visit-search-toggle",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Search visits"
+      },
+      {
+        "testId": "VisitList-List",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-item-button",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-state-recording",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-visit-status-in-progress",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "This recording hasn't been finalized. It may still be active in another tab or device."
+      },
+      {
+        "testId": "aiux-visit-select",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Select"
+      },
+      {
+        "testId": "menu-visit-delete-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Move to Trash"
+      },
+      {
+        "testId": "library-navigation",
+        "tag": "DIV",
+        "text": "My library Freed library Phrases New template",
+        "ariaLabel": "Template Libraries"
+      },
+      {
+        "testId": "library-button-my",
+        "tag": "BUTTON",
+        "text": "My library",
+        "ariaLabel": null
+      },
+      {
+        "testId": "FolderSpecialIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "library-button-freed",
+        "tag": "BUTTON",
+        "text": "Freed library",
+        "ariaLabel": null
+      },
+      {
+        "testId": "LanguageOutlinedIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "library-button-dot-phrases",
+        "tag": "BUTTON",
+        "text": "Phrases",
+        "ariaLabel": null
+      },
+      {
+        "testId": "BoltOutlinedIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "new-template-button",
+        "tag": "BUTTON",
+        "text": "New template",
+        "ariaLabel": null
+      },
+      {
+        "testId": "MyHomeTemplatesTable",
+        "tag": "TABLE",
+        "text": "Template name Owners Latest Activity sorted descending Returning Patient Learned template Me 5 minutes ago New Patient L",
+        "ariaLabel": "templates table"
+      },
+      {
+        "testId": "MyHomeTemplatesTable-SortIcon-name",
+        "tag": "SPAN",
+        "text": "Template name",
+        "ariaLabel": null
+      },
+      {
+        "testId": "ArrowDownwardIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "MyHomeTemplatesTable-SortIcon-owners",
+        "tag": "SPAN",
+        "text": "Owners",
+        "ariaLabel": null
+      },
+      {
+        "testId": "ArrowDownwardIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "MyHomeTemplatesTable-SortIcon-latest_activity",
+        "tag": "SPAN",
+        "text": "Latest Activity sorted descending",
+        "ariaLabel": null
+      },
+      {
+        "testId": "ArrowDownwardIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "template-row-Returning Patient",
+        "tag": "TR",
+        "text": "Returning Patient Learned template Me 5 minutes ago",
+        "ariaLabel": "Returning Patient"
+      },
+      {
+        "testId": "name-2e9676e2-e1ea-4650-9f7c-a26a841a1009_e88ea50c-2854-4121-8ddc-8e0ea0d9fb58_",
+        "tag": "TD",
+        "text": "Returning Patient Learned template",
+        "ariaLabel": null
+      },
+      {
+        "testId": "InsightsOutlinedIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": "Learned template"
+      },
+      {
+        "testId": "template-name",
+        "tag": "P",
+        "text": "Returning Patient",
+        "ariaLabel": null
+      },
+      {
+        "testId": "owners-2e9676e2-e1ea-4650-9f7c-a26a841a1009_e88ea50c-2854-4121-8ddc-8e0ea0d9fb58_",
+        "tag": "TD",
+        "text": "Me",
+        "ariaLabel": null
+      },
+      {
+        "testId": "latest_activity-2e9676e2-e1ea-4650-9f7c-a26a841a1009_e88ea50c-2854-4121-8ddc-8e0ea0d9fb58_",
+        "tag": "TD",
+        "text": "5 minutes ago",
+        "ariaLabel": null
+      },
+      {
+        "testId": "actions-2e9676e2-e1ea-4650-9f7c-a26a841a1009_e88ea50c-2854-4121-8ddc-8e0ea0d9fb58_",
+        "tag": "TD",
+        "text": "",
+        "ariaLabel": "actions"
+      },
+      {
+        "testId": "MoreHorizIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "StarIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "template-row-New Patient",
+        "tag": "TR",
+        "text": "New Patient Learned template Me 5 minutes ago",
+        "ariaLabel": "New Patient"
+      },
+      {
+        "testId": "name-afdcb313-13ad-41d9-bfdf-6cbd7799059a_e88ea50c-2854-4121-8ddc-8e0ea0d9fb58_",
+        "tag": "TD",
+        "text": "New Patient Learned template",
+        "ariaLabel": null
+      },
+      {
+        "testId": "InsightsOutlinedIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": "Learned template"
+      },
+      {
+        "testId": "template-name",
+        "tag": "P",
+        "text": "New Patient",
+        "ariaLabel": null
+      },
+      {
+        "testId": "owners-afdcb313-13ad-41d9-bfdf-6cbd7799059a_e88ea50c-2854-4121-8ddc-8e0ea0d9fb58_",
+        "tag": "TD",
+        "text": "Me",
+        "ariaLabel": null
+      },
+      {
+        "testId": "latest_activity-afdcb313-13ad-41d9-bfdf-6cbd7799059a_e88ea50c-2854-4121-8ddc-8e0ea0d9fb58_",
+        "tag": "TD",
+        "text": "5 minutes ago",
+        "ariaLabel": null
+      },
+      {
+        "testId": "actions-afdcb313-13ad-41d9-bfdf-6cbd7799059a_e88ea50c-2854-4121-8ddc-8e0ea0d9fb58_",
+        "tag": "TD",
+        "text": "",
+        "ariaLabel": "actions"
+      },
+      {
+        "testId": "MoreHorizIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "StarIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "ArrowDropDownIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "KeyboardArrowLeftIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "KeyboardArrowRightIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "sentinelStart",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "canonical-learn-template-name-input",
+        "tag": "INPUT",
+        "text": "",
+        "ariaLabel": "Template Name"
+      },
+      {
+        "testId": "canonical-learn-template-type-chip",
+        "tag": "DIV",
+        "text": "Learned template",
+        "ariaLabel": null
+      },
+      {
+        "testId": "canonical-learn-version-chip",
+        "tag": "DIV",
+        "text": "Version 1",
+        "ariaLabel": null
+      },
+      {
+        "testId": "canonical-learn-auto-learn-pill",
+        "tag": "BUTTON",
+        "text": "Auto Learn: Off",
+        "ariaLabel": null
+      },
+      {
+        "testId": "canonical-learn-version-history-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "version history"
+      },
+      {
+        "testId": "HistoryIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "canonical-learn-options-menu",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "template-options"
+      },
+      {
+        "testId": "MoreVertIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "canonical-learn-close-drawer",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "close"
+      },
+      {
+        "testId": "CloseIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "HelpOutlineOutlinedIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "ArrowDropDownIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "ArrowRightIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "ArrowRightIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "sections-editor",
+        "tag": "DIV",
+        "text": "Subjective John Smith, a 65-year-old male with a history of coronary artery disease, hypertension, and dyslipidemia, pre",
+        "ariaLabel": null
+      },
+      {
+        "testId": "editor-node-view-wrapper",
+        "tag": "DIV",
+        "text": "Subjective John Smith, a 65-year-old male with a history of coronary artery disease, hypertension, and dyslipidemia, pre",
+        "ariaLabel": null
+      },
+      {
+        "testId": "canvas-text-editor",
+        "tag": "DIV",
+        "text": "John Smith, a 65-year-old male with a history of coronary artery disease, hypertension, and dyslipidemia, presents for r",
+        "ariaLabel": null
+      },
+      {
+        "testId": "section-copy-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Copy"
+      },
+      {
+        "testId": "editor-node-view-wrapper",
+        "tag": "DIV",
+        "text": "Objective Vital Signs - Blood Pressure: 132/78 mmHg - Heart Rate: 68 bpm - Respiratory Rate: 16/min - Weight: 185 lbs (8",
+        "ariaLabel": null
+      },
+      {
+        "testId": "canvas-text-editor",
+        "tag": "DIV",
+        "text": "Vital Signs - Blood Pressure: 132/78 mmHg - Heart Rate: 68 bpm - Respiratory Rate: 16/min - Weight: 185 lbs (84 kg) - BM",
+        "ariaLabel": null
+      },
+      {
+        "testId": "section-copy-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Copy"
+      },
+      {
+        "testId": "editor-node-view-wrapper",
+        "tag": "DIV",
+        "text": "Assessment & Plan 65-year-old male with coronary artery disease status post PCI with stent to LAD (2020), hypertension, ",
+        "ariaLabel": null
+      },
+      {
+        "testId": "canvas-text-editor",
+        "tag": "DIV",
+        "text": "65-year-old male with coronary artery disease status post PCI with stent to LAD (2020), hypertension, dyslipidemia, and ",
+        "ariaLabel": null
+      },
+      {
+        "testId": "section-copy-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Copy"
+      },
+      {
+        "testId": "editor-node-view-wrapper",
+        "tag": "DIV",
+        "text": "Patient Instructions Thank you for meeting with me today. Below is a summary of the items we discussed and the next step",
+        "ariaLabel": null
+      },
+      {
+        "testId": "canvas-text-editor",
+        "tag": "DIV",
+        "text": "Thank you for meeting with me today. Below is a summary of the items we discussed and the next steps in your care plan. ",
+        "ariaLabel": null
+      },
+      {
+        "testId": "section-copy-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Copy"
+      },
+      {
+        "testId": "canonical-learn-save-changes",
+        "tag": "BUTTON",
+        "text": "Save changes",
+        "ariaLabel": null
+      },
+      {
+        "testId": "sentinelEnd",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      }
+    ]
+  },
+  {
+    "stepName": "26-Templates-Freed-Library",
+    "fileName": "44b-auth-templates-freed-library.png",
+    "url": "https://secure.getfreed.ai/templates?libraryId=freed",
+    "bodyText": "Visits\n\nTemplates\n\nEHR Push\n\nSubscribe\n\nAR\nMy library\nFreed library\nPhrases\nNew template\nBrowse specialty tuned Freed templates\n\nLearned templates customize notes to the template you select. Edit directly or through AI chat.\n\nLearned templates\nStructured templates\n\nTemplate name\n\n\t\n\nSpecialty\n\nsorted ascending\n\t\n\n\nAllergy and Immunology\n\nLearned template\n\n\t\n\nAllergy and Immunology\n\n\t\n\n\nEndocrinology\n\nLearned template\n\n\t\n\nEndocrinology\n\n\t\n\n\nGastroenterology\n\nLearned template\n\n\t\n\nGastroenterology\n\n\t\n\n\nGeriatrics\n\nLearned template\n\n\t\n\nGeriatrics\n\n\t\n\n\nNeurology\n\nLearned template\n\n\t\n\nNeurology\n\n\t\n\n\nPodiatry\n\nLearned template\n\n\t\n\nPodiatry\n\n\t\n\n\nPulmonology\n\nLearned template\n\n\t\n\nPulmonology\n\n\t\n\n\nRheumatology\n\nLearned template\n\n\t\n\nRheumatology\n\n\t\n\n\nDefault Note\n\nLearned template\n\n\t\n\nNo specialty\n\n\t\n\n\nEmergency Medicine\n\nLearned template\n\n\t\n\nEmergency Medicine\n\n\t\n\nRows per page:\n\n10\n\n1-10 of 17",
+    "testIds": [
+      {
+        "testId": "aiux-app",
+        "tag": "DIV",
+        "text": "Visits Templates EHR Push Subscribe AR My library Freed library Phrases New template Browse specialty tuned Freed templa",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-visits",
+        "tag": "BUTTON",
+        "text": "Visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-ehr",
+        "tag": "BUTTON",
+        "text": "EHR Push",
+        "ariaLabel": null
+      },
+      {
+        "testId": "subscribe-nav-button",
+        "tag": "BUTTON",
+        "text": "Subscribe",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-settings-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "help-center-nav-icon",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "menu-appbar",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-schedule-panel",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-new-visit-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-all-checkbox",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "Select all"
+      },
+      {
+        "testId": "aiux-filter-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Change visit list. Current: Active visits"
+      },
+      {
+        "testId": "aiux-filter-label",
+        "tag": "SPAN",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-date-filter-toggle",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Filter visits by date"
+      },
+      {
+        "testId": "visit-search-toggle",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Search visits"
+      },
+      {
+        "testId": "VisitList-List",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-item-button",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-state-recording",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-visit-status-in-progress",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "This recording hasn't been finalized. It may still be active in another tab or device."
+      },
+      {
+        "testId": "aiux-visit-select",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Select"
+      },
+      {
+        "testId": "menu-visit-delete-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Move to Trash"
+      },
+      {
+        "testId": "library-navigation",
+        "tag": "DIV",
+        "text": "My library Freed library Phrases New template",
+        "ariaLabel": "Template Libraries"
+      },
+      {
+        "testId": "library-button-my",
+        "tag": "BUTTON",
+        "text": "My library",
+        "ariaLabel": null
+      },
+      {
+        "testId": "FolderSpecialOutlinedIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "library-button-freed",
+        "tag": "BUTTON",
+        "text": "Freed library",
+        "ariaLabel": null
+      },
+      {
+        "testId": "LanguageIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "library-button-dot-phrases",
+        "tag": "BUTTON",
+        "text": "Phrases",
+        "ariaLabel": null
+      },
+      {
+        "testId": "BoltOutlinedIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "new-template-button",
+        "tag": "BUTTON",
+        "text": "New template",
+        "ariaLabel": null
+      },
+      {
+        "testId": "ArrowDownwardIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "ArrowDownwardIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "name-_13dda8d7-eea9-48f2-9eac-cebaac31cb73_",
+        "tag": "TD",
+        "text": "Allergy and Immunology Learned template",
+        "ariaLabel": null
+      },
+      {
+        "testId": "InsightsOutlinedIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": "Learned template"
+      },
+      {
+        "testId": "template-name",
+        "tag": "P",
+        "text": "Allergy and Immunology",
+        "ariaLabel": null
+      },
+      {
+        "testId": "specialty-_13dda8d7-eea9-48f2-9eac-cebaac31cb73_",
+        "tag": "TD",
+        "text": "Allergy and Immunology",
+        "ariaLabel": null
+      },
+      {
+        "testId": "actions-_13dda8d7-eea9-48f2-9eac-cebaac31cb73_",
+        "tag": "TD",
+        "text": "",
+        "ariaLabel": "actions"
+      },
+      {
+        "testId": "AddCircleOutlineIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "name-_6fe60f98-5414-40ea-82eb-2f4d041338f9_",
+        "tag": "TD",
+        "text": "Endocrinology Learned template",
+        "ariaLabel": null
+      },
+      {
+        "testId": "InsightsOutlinedIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": "Learned template"
+      },
+      {
+        "testId": "template-name",
+        "tag": "P",
+        "text": "Endocrinology",
+        "ariaLabel": null
+      },
+      {
+        "testId": "specialty-_6fe60f98-5414-40ea-82eb-2f4d041338f9_",
+        "tag": "TD",
+        "text": "Endocrinology",
+        "ariaLabel": null
+      },
+      {
+        "testId": "actions-_6fe60f98-5414-40ea-82eb-2f4d041338f9_",
+        "tag": "TD",
+        "text": "",
+        "ariaLabel": "actions"
+      },
+      {
+        "testId": "AddCircleOutlineIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "name-_43d83da8-1bd3-4709-a6b8-db1ddc2e05f2_",
+        "tag": "TD",
+        "text": "Gastroenterology Learned template",
+        "ariaLabel": null
+      },
+      {
+        "testId": "InsightsOutlinedIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": "Learned template"
+      },
+      {
+        "testId": "template-name",
+        "tag": "P",
+        "text": "Gastroenterology",
+        "ariaLabel": null
+      },
+      {
+        "testId": "specialty-_43d83da8-1bd3-4709-a6b8-db1ddc2e05f2_",
+        "tag": "TD",
+        "text": "Gastroenterology",
+        "ariaLabel": null
+      },
+      {
+        "testId": "actions-_43d83da8-1bd3-4709-a6b8-db1ddc2e05f2_",
+        "tag": "TD",
+        "text": "",
+        "ariaLabel": "actions"
+      },
+      {
+        "testId": "AddCircleOutlineIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "name-_967a9ec0-045c-47a8-8e4f-59591b2c2f29_",
+        "tag": "TD",
+        "text": "Geriatrics Learned template",
+        "ariaLabel": null
+      },
+      {
+        "testId": "InsightsOutlinedIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": "Learned template"
+      },
+      {
+        "testId": "template-name",
+        "tag": "P",
+        "text": "Geriatrics",
+        "ariaLabel": null
+      },
+      {
+        "testId": "specialty-_967a9ec0-045c-47a8-8e4f-59591b2c2f29_",
+        "tag": "TD",
+        "text": "Geriatrics",
+        "ariaLabel": null
+      },
+      {
+        "testId": "actions-_967a9ec0-045c-47a8-8e4f-59591b2c2f29_",
+        "tag": "TD",
+        "text": "",
+        "ariaLabel": "actions"
+      },
+      {
+        "testId": "AddCircleOutlineIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "name-_44772ee4-c723-4adb-865b-9bfeb7972494_",
+        "tag": "TD",
+        "text": "Neurology Learned template",
+        "ariaLabel": null
+      },
+      {
+        "testId": "InsightsOutlinedIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": "Learned template"
+      },
+      {
+        "testId": "template-name",
+        "tag": "P",
+        "text": "Neurology",
+        "ariaLabel": null
+      },
+      {
+        "testId": "specialty-_44772ee4-c723-4adb-865b-9bfeb7972494_",
+        "tag": "TD",
+        "text": "Neurology",
+        "ariaLabel": null
+      },
+      {
+        "testId": "actions-_44772ee4-c723-4adb-865b-9bfeb7972494_",
+        "tag": "TD",
+        "text": "",
+        "ariaLabel": "actions"
+      },
+      {
+        "testId": "AddCircleOutlineIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "name-_923df6d2-4667-40f9-b854-48fff66957d6_",
+        "tag": "TD",
+        "text": "Podiatry Learned template",
+        "ariaLabel": null
+      },
+      {
+        "testId": "InsightsOutlinedIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": "Learned template"
+      },
+      {
+        "testId": "template-name",
+        "tag": "P",
+        "text": "Podiatry",
+        "ariaLabel": null
+      },
+      {
+        "testId": "specialty-_923df6d2-4667-40f9-b854-48fff66957d6_",
+        "tag": "TD",
+        "text": "Podiatry",
+        "ariaLabel": null
+      },
+      {
+        "testId": "actions-_923df6d2-4667-40f9-b854-48fff66957d6_",
+        "tag": "TD",
+        "text": "",
+        "ariaLabel": "actions"
+      },
+      {
+        "testId": "AddCircleOutlineIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "name-_99f34089-62eb-47c6-9a8c-ae88122372f7_",
+        "tag": "TD",
+        "text": "Pulmonology Learned template",
+        "ariaLabel": null
+      },
+      {
+        "testId": "InsightsOutlinedIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": "Learned template"
+      },
+      {
+        "testId": "template-name",
+        "tag": "P",
+        "text": "Pulmonology",
+        "ariaLabel": null
+      },
+      {
+        "testId": "specialty-_99f34089-62eb-47c6-9a8c-ae88122372f7_",
+        "tag": "TD",
+        "text": "Pulmonology",
+        "ariaLabel": null
+      },
+      {
+        "testId": "actions-_99f34089-62eb-47c6-9a8c-ae88122372f7_",
+        "tag": "TD",
+        "text": "",
+        "ariaLabel": "actions"
+      },
+      {
+        "testId": "AddCircleOutlineIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "name-_bea284dc-6078-4d08-af4a-6a2a0bff2f89_",
+        "tag": "TD",
+        "text": "Rheumatology Learned template",
+        "ariaLabel": null
+      },
+      {
+        "testId": "InsightsOutlinedIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": "Learned template"
+      },
+      {
+        "testId": "template-name",
+        "tag": "P",
+        "text": "Rheumatology",
+        "ariaLabel": null
+      },
+      {
+        "testId": "specialty-_bea284dc-6078-4d08-af4a-6a2a0bff2f89_",
+        "tag": "TD",
+        "text": "Rheumatology",
+        "ariaLabel": null
+      },
+      {
+        "testId": "actions-_bea284dc-6078-4d08-af4a-6a2a0bff2f89_",
+        "tag": "TD",
+        "text": "",
+        "ariaLabel": "actions"
+      },
+      {
+        "testId": "AddCircleOutlineIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "name-_c4426479-036c-4541-9011-e970a58c71a8_",
+        "tag": "TD",
+        "text": "Default Note Learned template",
+        "ariaLabel": null
+      },
+      {
+        "testId": "InsightsOutlinedIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": "Learned template"
+      },
+      {
+        "testId": "template-name",
+        "tag": "P",
+        "text": "Default Note",
+        "ariaLabel": null
+      },
+      {
+        "testId": "specialty-_c4426479-036c-4541-9011-e970a58c71a8_",
+        "tag": "TD",
+        "text": "No specialty",
+        "ariaLabel": null
+      },
+      {
+        "testId": "actions-_c4426479-036c-4541-9011-e970a58c71a8_",
+        "tag": "TD",
+        "text": "",
+        "ariaLabel": "actions"
+      },
+      {
+        "testId": "AddCircleOutlineIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "name-_ece0a60c-ca00-4ad9-89dc-f90e1087d749_",
+        "tag": "TD",
+        "text": "Emergency Medicine Learned template",
+        "ariaLabel": null
+      },
+      {
+        "testId": "InsightsOutlinedIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": "Learned template"
+      },
+      {
+        "testId": "template-name",
+        "tag": "P",
+        "text": "Emergency Medicine",
+        "ariaLabel": null
+      },
+      {
+        "testId": "specialty-_ece0a60c-ca00-4ad9-89dc-f90e1087d749_",
+        "tag": "TD",
+        "text": "Emergency Medicine",
+        "ariaLabel": null
+      },
+      {
+        "testId": "actions-_ece0a60c-ca00-4ad9-89dc-f90e1087d749_",
+        "tag": "TD",
+        "text": "",
+        "ariaLabel": "actions"
+      },
+      {
+        "testId": "AddCircleOutlineIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "ArrowDropDownIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "KeyboardArrowLeftIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "KeyboardArrowRightIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      }
+    ]
+  },
+  {
+    "stepName": "27-Templates-Phrases",
+    "fileName": "44c-auth-templates-phrases.png",
+    "url": "https://secure.getfreed.ai/templates?libraryId=dot-phrases",
+    "bodyText": "Visits\n\nTemplates\n\nEHR Push\n\nSubscribe\n\nAR\nMy library\nFreed library\nPhrases\nPhrases\n\nType / in a note to search your phrases, then use the arrow keys and Enter to insert one.\n\nNew phrase\n\nShortcut\n\nsorted ascending\n\t\n\nContent\n\n\t\n\nVisibility\n\n\t\n\nYou don't have any phrases yet\n\nCreate one to reuse text you type often, and share it so your team can use it too.\n\nRows per page:\n\n10\n\n0-0 of 0",
+    "testIds": [
+      {
+        "testId": "aiux-app",
+        "tag": "DIV",
+        "text": "Visits Templates EHR Push Subscribe AR My library Freed library Phrases Phrases Type / in a note to search your phrases,",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-visits",
+        "tag": "BUTTON",
+        "text": "Visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-ehr",
+        "tag": "BUTTON",
+        "text": "EHR Push",
+        "ariaLabel": null
+      },
+      {
+        "testId": "subscribe-nav-button",
+        "tag": "BUTTON",
+        "text": "Subscribe",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-settings-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "help-center-nav-icon",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "menu-appbar",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-schedule-panel",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-new-visit-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-all-checkbox",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "Select all"
+      },
+      {
+        "testId": "aiux-filter-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Change visit list. Current: Active visits"
+      },
+      {
+        "testId": "aiux-filter-label",
+        "tag": "SPAN",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-date-filter-toggle",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Filter visits by date"
+      },
+      {
+        "testId": "visit-search-toggle",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Search visits"
+      },
+      {
+        "testId": "VisitList-List",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-item-button",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-state-recording",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-visit-status-in-progress",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "This recording hasn't been finalized. It may still be active in another tab or device."
+      },
+      {
+        "testId": "aiux-visit-select",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Select"
+      },
+      {
+        "testId": "menu-visit-delete-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Move to Trash"
+      },
+      {
+        "testId": "library-navigation",
+        "tag": "DIV",
+        "text": "My library Freed library Phrases",
+        "ariaLabel": "Template Libraries"
+      },
+      {
+        "testId": "library-button-my",
+        "tag": "BUTTON",
+        "text": "My library",
+        "ariaLabel": null
+      },
+      {
+        "testId": "FolderSpecialOutlinedIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "library-button-freed",
+        "tag": "BUTTON",
+        "text": "Freed library",
+        "ariaLabel": null
+      },
+      {
+        "testId": "LanguageOutlinedIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "library-button-dot-phrases",
+        "tag": "BUTTON",
+        "text": "Phrases",
+        "ariaLabel": null
+      },
+      {
+        "testId": "BoltIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "dot-phrases-home",
+        "tag": "DIV",
+        "text": "Phrases Type / in a note to search your phrases, then use the arrow keys and Enter to insert one. New phrase Shortcut so",
+        "ariaLabel": null
+      },
+      {
+        "testId": "dot-phrases-new",
+        "tag": "BUTTON",
+        "text": "New phrase",
+        "ariaLabel": null
+      },
+      {
+        "testId": "AddIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "DotPhrasesTable",
+        "tag": "TABLE",
+        "text": "Shortcut sorted ascending Content Visibility You don't have any phrases yet Create one to reuse text you type often, and",
+        "ariaLabel": "phrases table"
+      },
+      {
+        "testId": "DotPhrasesTable-SortIcon-shortcut",
+        "tag": "SPAN",
+        "text": "Shortcut sorted ascending",
+        "ariaLabel": null
+      },
+      {
+        "testId": "ArrowDownwardIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "DotPhrasesTable-SortIcon-subscription_id",
+        "tag": "SPAN",
+        "text": "Visibility",
+        "ariaLabel": null
+      },
+      {
+        "testId": "ArrowDownwardIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "ArrowDropDownIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "KeyboardArrowLeftIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "KeyboardArrowRightIcon",
+        "tag": "svg",
+        "text": "",
+        "ariaLabel": null
+      }
+    ]
+  },
+  {
+    "stepName": "28-John-Smith-Full-Artifact",
+    "fileName": "54-auth-john-smith-artifact.png",
+    "url": "https://secure.getfreed.ai/visit/c258ee90-3e63-4bae-baef-cbfeed40ec69",
+    "bodyText": "Visits\n\nTemplates\n\nEHR Push\n\nSubscribe\n\nAR\n\nNew visit\n\nActive visits\n\nToday\n\nJohn Smith\n\n6:16 AM · Demo visit\n\n​\n+ add pronoun\n•\nToday at 6:16 AM\nSelect Template\n\nResume\n\nAI Chat\n\nClinical Evidence\n\nAsk a clinical question about this patient...",
+    "testIds": [
+      {
+        "testId": "aiux-app",
+        "tag": "DIV",
+        "text": "Visits Templates EHR Push Subscribe AR New visit Active visits Today John Smith 6:16 AM · Demo visit ​ + add pronoun • T",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-visits",
+        "tag": "BUTTON",
+        "text": "Visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-ehr",
+        "tag": "BUTTON",
+        "text": "EHR Push",
+        "ariaLabel": null
+      },
+      {
+        "testId": "subscribe-nav-button",
+        "tag": "BUTTON",
+        "text": "Subscribe",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-settings-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "help-center-nav-icon",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "menu-appbar",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-schedule-panel",
+        "tag": "DIV",
+        "text": "New visit Active visits Today John Smith 6:16 AM · Demo visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-new-visit-button",
+        "tag": "BUTTON",
+        "text": "New visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-all-checkbox",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "Select all"
+      },
+      {
+        "testId": "aiux-filter-button",
+        "tag": "BUTTON",
+        "text": "Active visits",
+        "ariaLabel": "Change visit list. Current: Active visits"
+      },
+      {
+        "testId": "aiux-filter-label",
+        "tag": "SPAN",
+        "text": "Active visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-date-filter-toggle",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Filter visits by date"
+      },
+      {
+        "testId": "visit-search-toggle",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Search visits"
+      },
+      {
+        "testId": "VisitList-List",
+        "tag": "DIV",
+        "text": "Today John Smith 6:16 AM · Demo visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-item-button",
+        "tag": "DIV",
+        "text": "John Smith 6:16 AM · Demo visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-state-recording",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-visit-status-in-progress",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "This recording hasn't been finalized. It may still be active in another tab or device."
+      },
+      {
+        "testId": "aiux-visit-select",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Select"
+      },
+      {
+        "testId": "menu-visit-delete-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Move to Trash"
+      },
+      {
+        "testId": "aiux-header-breadcrumb",
+        "tag": "DIV",
+        "text": "​ + add pronoun • Today at 6:16 AM",
+        "ariaLabel": null
+      },
+      {
+        "testId": "PatientNameForVisit-TextField",
+        "tag": "INPUT",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "edit-patient-name",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Edit Patient Name"
+      },
+      {
+        "testId": "aiux-header-pronoun-action",
+        "tag": "BUTTON",
+        "text": "+ add pronoun",
+        "ariaLabel": "Add pronouns"
+      },
+      {
+        "testId": "aiux-visit-datetime",
+        "tag": "SPAN",
+        "text": "Today at 6:16 AM",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-header-right-cluster",
+        "tag": "DIV",
+        "text": "Select Template Resume",
+        "ariaLabel": null
+      },
+      {
+        "testId": "new-template-selector",
+        "tag": "BUTTON",
+        "text": "Select Template",
+        "ariaLabel": null
+      },
+      {
+        "testId": "resume-recording-button",
+        "tag": "BUTTON",
+        "text": "Resume",
+        "ariaLabel": "Resume recording"
+      },
+      {
+        "testId": "stop-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "End recording"
+      },
+      {
+        "testId": "aiux-artifact-scroll",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-chat-panel-header",
+        "tag": "DIV",
+        "text": "AI Chat Clinical Evidence",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-chat-sources-subtext",
+        "tag": "BUTTON",
+        "text": "Clinical Evidence",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-clinical-evidence-info",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "Answers cite 50+ trusted sources, curated and evaluated by clinicians. Evidence supports your judgment. Every citation links to the original."
+      },
+      {
+        "testId": "aiux-chat-panel-close-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Minimize chat"
+      },
+      {
+        "testId": "aiux-chat-input",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-upload-document-btn",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      }
+    ]
+  },
+  {
+    "stepName": "30-AI-Chat-Clinical-Evidence-Response",
+    "fileName": "54c-auth-clinical-evidence-response.png",
+    "url": "https://secure.getfreed.ai/visit/c258ee90-3e63-4bae-baef-cbfeed40ec69",
+    "bodyText": "Visits\n\nTemplates\n\nEHR Push\n\nSubscribe\n\nAR\n\nNew visit\n\nActive visits\n\nToday\n\nJohn Smith\n\n6:16 AM · Demo visit\n\n​\n+ add pronoun\n•\nToday at 6:16 AM\nSelect Template\n\nResume\n\nAI Chat\n\nClinical Evidence\n\nWhat is the target BP for this patient with diabetes and hypertension?\n\nThinking...\n\nAsk a clinical question about this patient...",
+    "testIds": [
+      {
+        "testId": "aiux-app",
+        "tag": "DIV",
+        "text": "Visits Templates EHR Push Subscribe AR New visit Active visits Today John Smith 6:16 AM · Demo visit ​ + add pronoun • T",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-visits",
+        "tag": "BUTTON",
+        "text": "Visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-ehr",
+        "tag": "BUTTON",
+        "text": "EHR Push",
+        "ariaLabel": null
+      },
+      {
+        "testId": "subscribe-nav-button",
+        "tag": "BUTTON",
+        "text": "Subscribe",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-settings-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "help-center-nav-icon",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "menu-appbar",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-schedule-panel",
+        "tag": "DIV",
+        "text": "New visit Active visits Today John Smith 6:16 AM · Demo visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-new-visit-button",
+        "tag": "BUTTON",
+        "text": "New visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-all-checkbox",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "Select all"
+      },
+      {
+        "testId": "aiux-filter-button",
+        "tag": "BUTTON",
+        "text": "Active visits",
+        "ariaLabel": "Change visit list. Current: Active visits"
+      },
+      {
+        "testId": "aiux-filter-label",
+        "tag": "SPAN",
+        "text": "Active visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-date-filter-toggle",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Filter visits by date"
+      },
+      {
+        "testId": "visit-search-toggle",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Search visits"
+      },
+      {
+        "testId": "VisitList-List",
+        "tag": "DIV",
+        "text": "Today John Smith 6:16 AM · Demo visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-item-button",
+        "tag": "DIV",
+        "text": "John Smith 6:16 AM · Demo visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-state-recording",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-visit-status-in-progress",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "This recording hasn't been finalized. It may still be active in another tab or device."
+      },
+      {
+        "testId": "aiux-visit-select",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Select"
+      },
+      {
+        "testId": "menu-visit-delete-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Move to Trash"
+      },
+      {
+        "testId": "aiux-header-breadcrumb",
+        "tag": "DIV",
+        "text": "​ + add pronoun • Today at 6:16 AM",
+        "ariaLabel": null
+      },
+      {
+        "testId": "PatientNameForVisit-TextField",
+        "tag": "INPUT",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "edit-patient-name",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Edit Patient Name"
+      },
+      {
+        "testId": "aiux-header-pronoun-action",
+        "tag": "BUTTON",
+        "text": "+ add pronoun",
+        "ariaLabel": "Add pronouns"
+      },
+      {
+        "testId": "aiux-visit-datetime",
+        "tag": "SPAN",
+        "text": "Today at 6:16 AM",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-header-right-cluster",
+        "tag": "DIV",
+        "text": "Select Template Resume",
+        "ariaLabel": null
+      },
+      {
+        "testId": "new-template-selector",
+        "tag": "BUTTON",
+        "text": "Select Template",
+        "ariaLabel": null
+      },
+      {
+        "testId": "resume-recording-button",
+        "tag": "BUTTON",
+        "text": "Resume",
+        "ariaLabel": "Resume recording"
+      },
+      {
+        "testId": "stop-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "End recording"
+      },
+      {
+        "testId": "aiux-artifact-scroll",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-chat-panel-header",
+        "tag": "DIV",
+        "text": "AI Chat Clinical Evidence",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-chat-sources-subtext",
+        "tag": "BUTTON",
+        "text": "Clinical Evidence",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-clinical-evidence-info",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "Answers cite 50+ trusted sources, curated and evaluated by clinicians. Evidence supports your judgment. Every citation links to the original."
+      },
+      {
+        "testId": "aiux-chat-panel-close-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Minimize chat"
+      },
+      {
+        "testId": "aiux-chat-message-user",
+        "tag": "DIV",
+        "text": "What is the target BP for this patient with diabetes and hypertension?",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-chat-message-assistant",
+        "tag": "DIV",
+        "text": "Thinking...",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-chat-input",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-upload-document-btn",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      }
+    ]
+  },
+  {
+    "stepName": "31-Auth-Workspace-Tablet",
+    "fileName": "55-auth-workspace-tablet.png",
+    "url": "https://secure.getfreed.ai/visit/c258ee90-3e63-4bae-baef-cbfeed40ec69",
+    "bodyText": "​\n+ add pronoun\n•\nToday at 6:16 AM\n\nAI Chat\n\nEnd visit\nResume\n00:00\n\nVisits\n\nTemplates\n\nEHR Push\n\nSubscribe\n\nNew visit\n\nActive visits\n\nToday\n\nNew visit\n\nVisits",
+    "testIds": [
+      {
+        "testId": "aiux-app",
+        "tag": "DIV",
+        "text": "​ + add pronoun • Today at 6:16 AM AI Chat End visit Resume 00:00 Visits Templates EHR Push Subscribe New visit Active v",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-header-breadcrumb",
+        "tag": "DIV",
+        "text": "​ + add pronoun • Today at 6:16 AM",
+        "ariaLabel": null
+      },
+      {
+        "testId": "PatientNameForVisit-TextField",
+        "tag": "INPUT",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "edit-patient-name",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Edit Patient Name"
+      },
+      {
+        "testId": "aiux-header-pronoun-action",
+        "tag": "BUTTON",
+        "text": "+ add pronoun",
+        "ariaLabel": "Add pronouns"
+      },
+      {
+        "testId": "aiux-visit-datetime",
+        "tag": "SPAN",
+        "text": "Today at 6:16 AM",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-header-right-cluster",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-artifact-scroll",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-bar-chat-toggle",
+        "tag": "BUTTON",
+        "text": "AI Chat",
+        "ariaLabel": "AI Chat"
+      },
+      {
+        "testId": "aiux-bar-action-menu-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "More options"
+      },
+      {
+        "testId": "stop-button",
+        "tag": "BUTTON",
+        "text": "End visit",
+        "ariaLabel": "End recording"
+      },
+      {
+        "testId": "resume-recording-button",
+        "tag": "BUTTON",
+        "text": "Resume",
+        "ariaLabel": "Resume recording"
+      },
+      {
+        "testId": "input-volume-recording",
+        "tag": "DIV",
+        "text": "00:00",
+        "ariaLabel": null
+      },
+      {
+        "testId": "recording-timer",
+        "tag": "H6",
+        "text": "00:00",
+        "ariaLabel": null
+      },
+      {
+        "testId": "input-volume-bars",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "mic-input-selector",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Select microphone"
+      },
+      {
+        "testId": "mic-input",
+        "tag": "SPAN",
+        "text": "Input:",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-chat-sheet-scrim",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-chat-sheet",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "Chat"
+      },
+      {
+        "testId": "aiux-chat-sheet-handle",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-chat-sheet-header",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-chat-sources-subtext",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-clinical-evidence-info",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "Answers cite 50+ trusted sources, curated and evaluated by clinicians. Evidence supports your judgment. Every citation links to the original."
+      },
+      {
+        "testId": "aiux-chat-sheet-close-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Close chat"
+      },
+      {
+        "testId": "aiux-chat-message-user",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-chat-message-assistant",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-chat-input",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-upload-document-btn",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-visits",
+        "tag": "BUTTON",
+        "text": "Visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-ehr",
+        "tag": "BUTTON",
+        "text": "EHR Push",
+        "ariaLabel": null
+      },
+      {
+        "testId": "subscribe-nav-button",
+        "tag": "BUTTON",
+        "text": "Subscribe",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-new-visit-button",
+        "tag": "BUTTON",
+        "text": "New visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-all-checkbox",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "Select all"
+      },
+      {
+        "testId": "aiux-filter-button",
+        "tag": "BUTTON",
+        "text": "Active visits",
+        "ariaLabel": "Change visit list. Current: Active visits"
+      },
+      {
+        "testId": "aiux-filter-label",
+        "tag": "SPAN",
+        "text": "Active visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-date-filter-toggle",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Filter visits by date"
+      },
+      {
+        "testId": "visit-search-toggle",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Search visits"
+      },
+      {
+        "testId": "VisitList-List",
+        "tag": "DIV",
+        "text": "Today",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-item-button",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-state-recording",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-visit-status-in-progress",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "This recording hasn't been finalized. It may still be active in another tab or device."
+      },
+      {
+        "testId": "mobile-bottom-nav",
+        "tag": "DIV",
+        "text": "New visit Visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "new-visit-tab",
+        "tag": "BUTTON",
+        "text": "New visit",
+        "ariaLabel": "New visit"
+      },
+      {
+        "testId": "notes-tab",
+        "tag": "BUTTON",
+        "text": "Visits",
+        "ariaLabel": "Visits"
+      },
+      {
+        "testId": "aiux-template-drawer",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "sentinelStart",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "new-template-selector-pulse-menu-item-New Patient",
+        "tag": "LI",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "new-template-selector-pulse-menu-item-Returning Patient",
+        "tag": "LI",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "new-template-selector-pulse-menu-item-Acute Medical Visit",
+        "tag": "LI",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "new-template-selector-pulse-menu-item-Follow-Up Visit",
+        "tag": "LI",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "new-template-selector-pulse-menu-item-New Medical Visit",
+        "tag": "LI",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "new-template-selector-pulse-menu-item-New Patient Visit",
+        "tag": "LI",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "new-template-selector-pulse-menu-item-Return Medical Visit",
+        "tag": "LI",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "sentinelEnd",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      }
+    ]
+  },
+  {
+    "stepName": "32-Auth-Workspace-Mobile",
+    "fileName": "56-auth-workspace-mobile.png",
+    "url": "https://secure.getfreed.ai/visit/c258ee90-3e63-4bae-baef-cbfeed40ec69",
+    "bodyText": "​\n+ add pronoun\n•\nToday at 6:16 AM\n\nAI Chat\n\nEnd visit\nResume\n00:00\n\nVisits\n\nTemplates\n\nEHR Push\n\nSubscribe\n\nNew visit\n\nActive visits\n\nToday\n\nNew visit\n\nVisits",
+    "testIds": [
+      {
+        "testId": "aiux-app",
+        "tag": "DIV",
+        "text": "​ + add pronoun • Today at 6:16 AM AI Chat End visit Resume 00:00 Visits Templates EHR Push Subscribe New visit Active v",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-header-breadcrumb",
+        "tag": "DIV",
+        "text": "​ + add pronoun • Today at 6:16 AM",
+        "ariaLabel": null
+      },
+      {
+        "testId": "PatientNameForVisit-TextField",
+        "tag": "INPUT",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "edit-patient-name",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Edit Patient Name"
+      },
+      {
+        "testId": "aiux-header-pronoun-action",
+        "tag": "BUTTON",
+        "text": "+ add pronoun",
+        "ariaLabel": "Add pronouns"
+      },
+      {
+        "testId": "aiux-visit-datetime",
+        "tag": "SPAN",
+        "text": "Today at 6:16 AM",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-header-right-cluster",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-artifact-scroll",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-bar-chat-toggle",
+        "tag": "BUTTON",
+        "text": "AI Chat",
+        "ariaLabel": "AI Chat"
+      },
+      {
+        "testId": "aiux-bar-action-menu-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "More options"
+      },
+      {
+        "testId": "stop-button",
+        "tag": "BUTTON",
+        "text": "End visit",
+        "ariaLabel": "End recording"
+      },
+      {
+        "testId": "resume-recording-button",
+        "tag": "BUTTON",
+        "text": "Resume",
+        "ariaLabel": "Resume recording"
+      },
+      {
+        "testId": "input-volume-recording",
+        "tag": "DIV",
+        "text": "00:00",
+        "ariaLabel": null
+      },
+      {
+        "testId": "recording-timer",
+        "tag": "H6",
+        "text": "00:00",
+        "ariaLabel": null
+      },
+      {
+        "testId": "input-volume-bars",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "mic-input-selector",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Select microphone"
+      },
+      {
+        "testId": "mic-input",
+        "tag": "SPAN",
+        "text": "Input:",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-chat-sheet-scrim",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-chat-sheet",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "Chat"
+      },
+      {
+        "testId": "aiux-chat-sheet-handle",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-chat-sheet-header",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-chat-sources-subtext",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-clinical-evidence-info",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "Answers cite 50+ trusted sources, curated and evaluated by clinicians. Evidence supports your judgment. Every citation links to the original."
+      },
+      {
+        "testId": "aiux-chat-sheet-close-button",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Close chat"
+      },
+      {
+        "testId": "aiux-chat-message-user",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-chat-message-assistant",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-chat-input",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-upload-document-btn",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-visits",
+        "tag": "BUTTON",
+        "text": "Visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-sidenav-ehr",
+        "tag": "BUTTON",
+        "text": "EHR Push",
+        "ariaLabel": null
+      },
+      {
+        "testId": "subscribe-nav-button",
+        "tag": "BUTTON",
+        "text": "Subscribe",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-new-visit-button",
+        "tag": "BUTTON",
+        "text": "New visit",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-all-checkbox",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "Select all"
+      },
+      {
+        "testId": "aiux-filter-button",
+        "tag": "BUTTON",
+        "text": "Active visits",
+        "ariaLabel": "Change visit list. Current: Active visits"
+      },
+      {
+        "testId": "aiux-filter-label",
+        "tag": "SPAN",
+        "text": "Active visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-date-filter-toggle",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Filter visits by date"
+      },
+      {
+        "testId": "visit-search-toggle",
+        "tag": "BUTTON",
+        "text": "",
+        "ariaLabel": "Search visits"
+      },
+      {
+        "testId": "VisitList-List",
+        "tag": "DIV",
+        "text": "Today",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-item-button",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "visit-state-recording",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "aiux-visit-status-in-progress",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": "This recording hasn't been finalized. It may still be active in another tab or device."
+      },
+      {
+        "testId": "mobile-bottom-nav",
+        "tag": "DIV",
+        "text": "New visit Visits",
+        "ariaLabel": null
+      },
+      {
+        "testId": "new-visit-tab",
+        "tag": "BUTTON",
+        "text": "New visit",
+        "ariaLabel": "New visit"
+      },
+      {
+        "testId": "notes-tab",
+        "tag": "BUTTON",
+        "text": "Visits",
+        "ariaLabel": "Visits"
+      },
+      {
+        "testId": "aiux-template-drawer",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "sentinelStart",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "new-template-selector-pulse-menu-item-New Patient",
+        "tag": "LI",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "new-template-selector-pulse-menu-item-Returning Patient",
+        "tag": "LI",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "new-template-selector-pulse-menu-item-Acute Medical Visit",
+        "tag": "LI",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "new-template-selector-pulse-menu-item-Follow-Up Visit",
+        "tag": "LI",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "new-template-selector-pulse-menu-item-New Medical Visit",
+        "tag": "LI",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "new-template-selector-pulse-menu-item-New Patient Visit",
+        "tag": "LI",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "new-template-selector-pulse-menu-item-Return Medical Visit",
+        "tag": "LI",
+        "text": "",
+        "ariaLabel": null
+      },
+      {
+        "testId": "sentinelEnd",
+        "tag": "DIV",
+        "text": "",
+        "ariaLabel": null
+      }
+    ]
+  }
+]

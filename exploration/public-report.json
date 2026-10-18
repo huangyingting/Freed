@@ -1,0 +1,2097 @@
+{
+  "exploredAt": "2026-10-18T06:04:38.517Z",
+  "pages": [
+    {
+      "name": "Home (Desktop)",
+      "url": "https://www.getfreed.ai/",
+      "title": "Most Loved AI Medical Scribe for Clinical Notes | Freed",
+      "viewport": "1440x900",
+      "screenshots": [
+        "01-home-desktop.png",
+        "01-home-desktop-full.png"
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Focus on people, not paperwork"
+        },
+        {
+          "tag": "H2",
+          "text": "The AI scribe and Front Desk giving time back to independent clinics."
+        },
+        {
+          "tag": "H2",
+          "text": "From"
+        },
+        {
+          "tag": "H2",
+          "text": "first"
+        },
+        {
+          "tag": "H2",
+          "text": "call to"
+        },
+        {
+          "tag": "H2",
+          "text": "last"
+        },
+        {
+          "tag": "H2",
+          "text": "note,"
+        },
+        {
+          "tag": "H2",
+          "text": "Freed keeps care moving."
+        },
+        {
+          "tag": "H3",
+          "text": "AI Scribe"
+        },
+        {
+          "tag": "H3",
+          "text": "Clinical Evidence"
+        },
+        {
+          "tag": "H3",
+          "text": "Coding Assistant"
+        },
+        {
+          "tag": "H3",
+          "text": "Front Desk"
+        },
+        {
+          "tag": "H2",
+          "text": "Made for"
+        },
+        {
+          "tag": "H2",
+          "text": "independent"
+        },
+        {
+          "tag": "H2",
+          "text": "practices"
+        },
+        {
+          "tag": "H2",
+          "text": "Works across your whole care team"
+        },
+        {
+          "tag": "H2",
+          "text": "Unmatched clinical accuracy"
+        },
+        {
+          "tag": "H2",
+          "text": "Adapts to your clinic in minutes"
+        },
+        {
+          "tag": "H2",
+          "text": "Real, human support"
+        },
+        {
+          "tag": "H2",
+          "text": "Built with love"
+        },
+        {
+          "tag": "H2",
+          "text": "Trusted"
+        },
+        {
+          "tag": "H2",
+          "text": "by providers and their teams"
+        },
+        {
+          "tag": "H3",
+          "text": "Goodbye to the avalanche of charts! Freed is a game-changer, costs a fraction of what others charge, with no real training needed."
+        },
+        {
+          "tag": "H4",
+          "text": "Dr. Maryam Zarei"
+        },
+        {
+          "tag": "H3",
+          "text": "Freed has truly freed me from hours of writing notes!"
+        },
+        {
+          "tag": "H4",
+          "text": "Julie Bailey"
+        },
+        {
+          "tag": "H3",
+          "text": "I get to go home to my family earlier each night thanks to Freed, and my patients get face-to-face contact with me."
+        },
+        {
+          "tag": "H4",
+          "text": "Dr. Dave James"
+        },
+        {
+          "tag": "H3",
+          "text": "32,589,627"
+        },
+        {
+          "tag": "H4",
+          "text": "patient visits transcribed in 2025"
+        },
+        {
+          "tag": "H3",
+          "text": "5.9 million"
+        },
+        {
+          "tag": "H4",
+          "text": "hours returned to our clinicians each year"
+        },
+        {
+          "tag": "H4",
+          "text": "happy clinicians"
+        },
+        {
+          "tag": "H4",
+          "text": "clinics and growing"
+        },
+        {
+          "tag": "H4",
+          "text": "As seen in"
+        },
+        {
+          "tag": "H4",
+          "text": "Awarded"
+        },
+        {
+          "tag": "H2",
+          "text": "Priced to help you"
+        },
+        {
+          "tag": "H2",
+          "text": "thrive"
+        },
+        {
+          "tag": "H4",
+          "text": "With Freed, small and midsized clinics get the technology and support of big orgs without the big overhead."
+        },
+        {
+          "tag": "H2",
+          "text": "Freed AI Scribe"
+        },
+        {
+          "tag": "H3",
+          "text": "Starting at $39 / month"
+        },
+        {
+          "tag": "H2",
+          "text": "Freed Front Desk"
+        },
+        {
+          "tag": "H3",
+          "text": "Starting at $149 / month"
+        },
+        {
+          "tag": "H2",
+          "text": "Free yourself for better things"
+        },
+        {
+          "tag": "H2",
+          "text": "Specialties"
+        },
+        {
+          "tag": "H2",
+          "text": "Compliance & Security"
+        },
+        {
+          "tag": "H2",
+          "text": "Product"
+        },
+        {
+          "tag": "H2",
+          "text": "About us"
+        },
+        {
+          "tag": "H2",
+          "text": "Resources"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "For clinicians",
+          "ariaLabel": null
+        },
+        {
+          "text": "For front desk",
+          "ariaLabel": null
+        },
+        {
+          "text": "Log in",
+          "ariaLabel": null
+        },
+        {
+          "text": "Try for free",
+          "ariaLabel": null
+        },
+        {
+          "text": "",
+          "ariaLabel": "menu"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Show slide 1 of 3"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Show slide 2 of 3"
+        },
+        {
+          "text": "",
+          "ariaLabel": "Show slide 3 of 3"
+        }
+      ]
+    },
+    {
+      "name": "features",
+      "url": "https://www.getfreed.ai/features",
+      "title": "Freed features: notes, coding, letters, and EHR push",
+      "viewport": "1440x900",
+      "screenshots": [
+        "04-features-desktop.png"
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "A smarter scribe for the whole visit"
+        },
+        {
+          "tag": "H2",
+          "text": "Freed listens once, then writes the note in your format, answers your clinical questions, suggests the codes, drafts the letters, and pushes it all to your EHR."
+        },
+        {
+          "tag": "H3",
+          "text": "AI Scribe"
+        },
+        {
+          "tag": "H3",
+          "text": "Clinical Evidence"
+        },
+        {
+          "tag": "H3",
+          "text": "Coding Assistant"
+        },
+        {
+          "tag": "H3",
+          "text": "EHR Push"
+        },
+        {
+          "tag": "H2",
+          "text": "01 · THE VISIT"
+        },
+        {
+          "tag": "H3",
+          "text": "Keep up"
+        },
+        {
+          "tag": "H3",
+          "text": "with the pace of care"
+        },
+        {
+          "tag": "H3",
+          "text": "Walk in already prepared, then record the conversation or dictate parts yourself. Either way, you type less and save mental space for the next patient."
+        },
+        {
+          "tag": "H2",
+          "text": "Fluent in over 90 languages"
+        },
+        {
+          "tag": "H3",
+          "text": "Record a Spanish-language visit and get notes in English. Or send instructions in the language your patient reads at home."
+        },
+        {
+          "tag": "H2",
+          "text": "02 · THE NOTE"
+        },
+        {
+          "tag": "H3",
+          "text": "Written the way you’d write"
+        },
+        {
+          "tag": "H3",
+          "text": "it"
+        },
+        {
+          "tag": "H3",
+          "text": "Freed starts from a template built by practicing clinicians, learns how you actually write, and lets you reshape any note by asking."
+        },
+        {
+          "tag": "H2",
+          "text": "03 · THE FOLLOW-THROUGH"
+        },
+        {
+          "tag": "H3",
+          "text": "Everything needed for"
+        },
+        {
+          "tag": "H3",
+          "text": "complete"
+        },
+        {
+          "tag": "H3",
+          "text": "documentation"
+        },
+        {
+          "tag": "H3",
+          "text": "Instructions, letters, codes, and the chart entry — all done before your next appointment."
+        },
+        {
+          "tag": "H2",
+          "text": "Built-in compatibility with these EHRs"
+        },
+        {
+          "tag": "H3",
+          "text": "Using something else? Most browser-based EHRs work with Freed’s Chrome extension. Or you can simply copy & paste your note — still faster than writing it from scratch."
+        },
+        {
+          "tag": "H3",
+          "text": "Made for the"
+        },
+        {
+          "tag": "H3",
+          "text": "whole"
+        },
+        {
+          "tag": "H3",
+          "text": "practice"
+        },
+        {
+          "tag": "H3",
+          "text": "The same scribe, coordinated across everyone who touches patient care."
+        },
+        {
+          "tag": "H2",
+          "text": "Try Freed free for 7 days"
+        },
+        {
+          "tag": "H2",
+          "text": "Specialties"
+        },
+        {
+          "tag": "H2",
+          "text": "Compliance & Security"
+        },
+        {
+          "tag": "H2",
+          "text": "Product"
+        },
+        {
+          "tag": "H2",
+          "text": "About us"
+        },
+        {
+          "tag": "H2",
+          "text": "Resources"
+        }
+      ],
+      "interactive": []
+    },
+    {
+      "name": "clinical-evidence",
+      "url": "https://www.getfreed.ai/clinical-evidence",
+      "title": "Clinical Evidence: Cited Answers for Your Patient | Freed",
+      "viewport": "1440x900",
+      "screenshots": [
+        "05-clinical-evidence-desktop.png"
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Evidence that knows your patient"
+        },
+        {
+          "tag": "H2",
+          "text": "Ask any clinical question. Get cited answers from 50+ trusted sources, grounded in the visit in front of you, while your patient’s PHI stays inside Freed."
+        },
+        {
+          "tag": "H2",
+          "text": "Over 50 trusted sources"
+        },
+        {
+          "tag": "H3",
+          "text": "PubMed, Cochrane, FDA, CDC, NIH, NEJM, WHO, AAFP and more."
+        },
+        {
+          "tag": "H2",
+          "text": "PHI never leaves Freed"
+        },
+        {
+          "tag": "H3",
+          "text": "Identifiable patient information is removed before any query."
+        },
+        {
+          "tag": "H2",
+          "text": "No ads"
+        },
+        {
+          "tag": "H3",
+          "text": "Answers are not sponsored. No pharma placement."
+        },
+        {
+          "tag": "H2",
+          "text": "Your patient, your answer"
+        },
+        {
+          "tag": "H2",
+          "text": "A curated library, not the open web"
+        },
+        {
+          "tag": "H2",
+          "text": "From question to cited answer within the note"
+        },
+        {
+          "tag": "H3",
+          "text": "Ask in plain language"
+        },
+        {
+          "tag": "H3",
+          "text": "Freed searches the trusted library"
+        },
+        {
+          "tag": "H3",
+          "text": "Read, check the sources, decide"
+        },
+        {
+          "tag": "H2",
+          "text": "See it in action"
+        },
+        {
+          "tag": "H2",
+          "text": "See what you'd ask first"
+        },
+        {
+          "tag": "H2",
+          "text": "FAQ"
+        },
+        {
+          "tag": "H3",
+          "text": "Frequently asked questions from clinicians and medical practitioners."
+        },
+        {
+          "tag": "H3",
+          "text": "What sources does Freed cite?"
+        },
+        {
+          "tag": "H3",
+          "text": "How is my patient’s data protected?"
+        },
+        {
+          "tag": "H3",
+          "text": "Does this replace clinical judgment?"
+        },
+        {
+          "tag": "H3",
+          "text": "How are sources governed?"
+        },
+        {
+          "tag": "H3",
+          "text": "How is this different from a general evidence tool?"
+        },
+        {
+          "tag": "H3",
+          "text": "Which plans include it?"
+        },
+        {
+          "tag": "H2",
+          "text": "Ask your first question today"
+        },
+        {
+          "tag": "H2",
+          "text": "Specialties"
+        },
+        {
+          "tag": "H2",
+          "text": "Compliance & Security"
+        },
+        {
+          "tag": "H2",
+          "text": "Product"
+        },
+        {
+          "tag": "H2",
+          "text": "About us"
+        },
+        {
+          "tag": "H2",
+          "text": "Resources"
+        }
+      ],
+      "interactive": []
+    },
+    {
+      "name": "coding-assistant",
+      "url": "https://www.getfreed.ai/coding-assistant",
+      "title": "AI Medical Coding Software | Freed",
+      "viewport": "1440x900",
+      "screenshots": [
+        "06-coding-assistant-desktop.png"
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Your built-in coding strategist"
+        },
+        {
+          "tag": "H2",
+          "text": "Freed’s Coding Assistant helps you capture revenue from care delivered, all within the clinician workflow, so your clinic can complete notes faster and speed up billing cycles."
+        },
+        {
+          "tag": "H3",
+          "text": "Note update recommendations to strengthen specificity and completeness for payers"
+        },
+        {
+          "tag": "H3",
+          "text": "Automatic, accurate, ICD-10 and CPT codes at the highest justified E/M level"
+        },
+        {
+          "tag": "H3",
+          "text": "Analysis of clinic-wide billing trends to improve coding choices in future visits"
+        },
+        {
+          "tag": "H2",
+          "text": "How it works"
+        },
+        {
+          "tag": "H3",
+          "text": "Post-visit coding suggestions"
+        },
+        {
+          "tag": "H3",
+          "text": "Documentation-linked coding"
+        },
+        {
+          "tag": "H3",
+          "text": "Coding impact dashboard"
+        },
+        {
+          "tag": "H2",
+          "text": "Defensible coding for the whole clinic"
+        },
+        {
+          "tag": "H2",
+          "text": "Real results from Burlington Pediatrics"
+        },
+        {
+          "tag": "H3",
+          "text": "See how Freed’s Coding Assistant helps close notes faster, capture more complete documentation, and bill with greater confidence."
+        },
+        {
+          "tag": "H3",
+          "text": "1,500+"
+        },
+        {
+          "tag": "H3",
+          "text": "99.5%"
+        },
+        {
+          "tag": "H3",
+          "text": "83%"
+        },
+        {
+          "tag": "H2",
+          "text": "See it in action"
+        },
+        {
+          "tag": "H2",
+          "text": "Ready for more accurate coding and fewer denials?"
+        },
+        {
+          "tag": "H2",
+          "text": "Specialties"
+        },
+        {
+          "tag": "H2",
+          "text": "Compliance & Security"
+        },
+        {
+          "tag": "H2",
+          "text": "Product"
+        },
+        {
+          "tag": "H2",
+          "text": "About us"
+        },
+        {
+          "tag": "H2",
+          "text": "Resources"
+        }
+      ],
+      "interactive": []
+    },
+    {
+      "name": "ehr-push",
+      "url": "https://www.getfreed.ai/ehr-push",
+      "title": "More Than an EHR Integration: Push Notes in a Click | Freed",
+      "viewport": "1440x900",
+      "screenshots": [
+        "07-ehr-push-desktop.png"
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Push notes to your EHR with a single click"
+        },
+        {
+          "tag": "H2",
+          "text": "Already have Freed? Download the Chrome extension to use EHR push."
+        },
+        {
+          "tag": "H2",
+          "text": "One"
+        },
+        {
+          "tag": "H2",
+          "text": "button"
+        },
+        {
+          "tag": "H2",
+          "text": "All the notes."
+        },
+        {
+          "tag": "H3",
+          "text": "EHR push is a single, powerful button that automatically maps and transfers notes from our best-in-class AI scribe into any browser-based EHR with just one click."
+        },
+        {
+          "tag": "H3",
+          "text": "More than a dozen EHRs"
+        },
+        {
+          "tag": "H3",
+          "text": "Install the Chrome extension"
+        },
+        {
+          "tag": "H3",
+          "text": "Compliant & secure"
+        },
+        {
+          "tag": "H2",
+          "text": "How to set up EHR push"
+        },
+        {
+          "tag": "H2",
+          "text": "FAQ"
+        },
+        {
+          "tag": "H3",
+          "text": "Does EHR push work with my specific EHR?"
+        },
+        {
+          "tag": "H3",
+          "text": "Is EHR push free?"
+        },
+        {
+          "tag": "H3",
+          "text": "Do I need IT support to set up EHR push?"
+        },
+        {
+          "tag": "H3",
+          "text": "Is EHR push secure?"
+        },
+        {
+          "tag": "H3",
+          "text": "For which EHRs does this feature work the best?"
+        },
+        {
+          "tag": "H2",
+          "text": "Try Freed free for 7 days"
+        },
+        {
+          "tag": "H2",
+          "text": "We know once you try Freed, you won’t want to work without it. So give it a go — no credit card needed."
+        },
+        {
+          "tag": "H2",
+          "text": "Specialties"
+        },
+        {
+          "tag": "H2",
+          "text": "Compliance & Security"
+        },
+        {
+          "tag": "H2",
+          "text": "Product"
+        },
+        {
+          "tag": "H2",
+          "text": "About us"
+        },
+        {
+          "tag": "H2",
+          "text": "Resources"
+        }
+      ],
+      "interactive": []
+    },
+    {
+      "name": "pricing",
+      "url": "https://www.getfreed.ai/pricing",
+      "title": "Pricing — Free Trial, Individual & Group | Freed",
+      "viewport": "1440x900",
+      "screenshots": [
+        "08-pricing-desktop.png"
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Your free time is"
+        },
+        {
+          "tag": "H2",
+          "text": "priceless"
+        },
+        {
+          "tag": "H2",
+          "text": "Our plans are built for real clinicians. Affordable pricing, seamless integration, and support if you need it."
+        },
+        {
+          "tag": "H3",
+          "text": "Starter"
+        },
+        {
+          "tag": "H3",
+          "text": "Core"
+        },
+        {
+          "tag": "H3",
+          "text": "Premier"
+        },
+        {
+          "tag": "H3",
+          "text": "Groups"
+        },
+        {
+          "tag": "H3",
+          "text": "Groups"
+        },
+        {
+          "tag": "H3",
+          "text": "Starter & Core"
+        },
+        {
+          "tag": "H3",
+          "text": "Premier"
+        },
+        {
+          "tag": "H3",
+          "text": "Groups"
+        },
+        {
+          "tag": "H2",
+          "text": "Freed’s most-loved features"
+        },
+        {
+          "tag": "H3",
+          "text": "7-day free trial"
+        },
+        {
+          "tag": "H3",
+          "text": "7-day free trial"
+        },
+        {
+          "tag": "H3",
+          "text": "Specialty-specific templates"
+        },
+        {
+          "tag": "H3",
+          "text": "Specialty-specific templates"
+        },
+        {
+          "tag": "H3",
+          "text": "Learn my format"
+        },
+        {
+          "tag": "H3",
+          "text": "Learn my format"
+        },
+        {
+          "tag": "H3",
+          "text": "Dictation and saved phrases"
+        },
+        {
+          "tag": "H3",
+          "text": "Dictation and saved phrases"
+        },
+        {
+          "tag": "H3",
+          "text": "Clinical Evidence from trusted sources"
+        },
+        {
+          "tag": "H3",
+          "text": "Clinical Evidence from trusted sources"
+        },
+        {
+          "tag": "H3",
+          "text": "Visit prep and patient context"
+        },
+        {
+          "tag": "H3",
+          "text": "Visit prep and patient context"
+        },
+        {
+          "tag": "H3",
+          "text": "EHR push integration"
+        },
+        {
+          "tag": "H3",
+          "text": "EHR push integration"
+        },
+        {
+          "tag": "H3",
+          "text": "Coding Assistant (ICD-10, E/M, CPT)"
+        },
+        {
+          "tag": "H3",
+          "text": "Coding Assistant (ICD-10, E/M, CPT)"
+        },
+        {
+          "tag": "H3",
+          "text": "Patient instructions and letters"
+        },
+        {
+          "tag": "H3",
+          "text": "Patient instructions and letters"
+        },
+        {
+          "tag": "H2",
+          "text": "Team Features"
+        },
+        {
+          "tag": "H3",
+          "text": "Team template library"
+        },
+        {
+          "tag": "H3",
+          "text": "Team template library"
+        },
+        {
+          "tag": "H3",
+          "text": "Note sharing"
+        },
+        {
+          "tag": "H3",
+          "text": "Note sharing"
+        },
+        {
+          "tag": "H3",
+          "text": "Medical Assistant seats"
+        },
+        {
+          "tag": "H3",
+          "text": "Medical Assistant seats"
+        },
+        {
+          "tag": "H2",
+          "text": "Support"
+        },
+        {
+          "tag": "H3",
+          "text": "World-class live support from our Clinician Success team"
+        },
+        {
+          "tag": "H3",
+          "text": "World-class live support from our Clinician Success team"
+        },
+        {
+          "tag": "H3",
+          "text": "Dedicated Account Manager"
+        },
+        {
+          "tag": "H3",
+          "text": "Dedicated Account Manager"
+        },
+        {
+          "tag": "H2",
+          "text": "Admin"
+        },
+        {
+          "tag": "H3",
+          "text": "License management"
+        },
+        {
+          "tag": "H3",
+          "text": "License management"
+        },
+        {
+          "tag": "H3",
+          "text": "Organization-wide BAA"
+        },
+        {
+          "tag": "H3",
+          "text": "Organization-wide BAA"
+        },
+        {
+          "tag": "H3",
+          "text": "Centralized billing"
+        },
+        {
+          "tag": "H3",
+          "text": "Centralized billing"
+        },
+        {
+          "tag": "H3",
+          "text": "Group volume discount"
+        },
+        {
+          "tag": "H3",
+          "text": "Group volume discount"
+        },
+        {
+          "tag": "H3",
+          "text": "Optional single sign-on (SSO)"
+        },
+        {
+          "tag": "H3",
+          "text": "Optional single sign-on (SSO)"
+        },
+        {
+          "tag": "H3",
+          "text": "Coding and ROI dashboards"
+        },
+        {
+          "tag": "H3",
+          "text": "Coding and ROI dashboards"
+        },
+        {
+          "tag": "H3",
+          "text": "Custom note retention settings"
+        },
+        {
+          "tag": "H3",
+          "text": "Custom note retention settings"
+        },
+        {
+          "tag": "H2",
+          "text": "FAQ"
+        },
+        {
+          "tag": "H3",
+          "text": "Frequently asked questions from clinicians and medical practitioners."
+        },
+        {
+          "tag": "H3",
+          "text": "Are audio recordings saved?"
+        },
+        {
+          "tag": "H3",
+          "text": "Can I customize my notes in Freed?"
+        },
+        {
+          "tag": "H3",
+          "text": "Can I use Freed on any device?"
+        },
+        {
+          "tag": "H3",
+          "text": "Does Freed's clinical note software have multilingual support?"
+        },
+        {
+          "tag": "H3",
+          "text": "Does Freed support healthcare professionals in all specialties?"
+        },
+        {
+          "tag": "H3",
+          "text": "Does Freed work for telehealth appointments?"
+        },
+        {
+          "tag": "H3",
+          "text": "Do I get a transcription of my patient visit?"
+        },
+        {
+          "tag": "H3",
+          "text": "Do you offer discounts for students?"
+        },
+        {
+          "tag": "H3",
+          "text": "How does an AI scribe save me time?"
+        },
+        {
+          "tag": "H3",
+          "text": "How do I explain Freed to my patient?"
+        },
+        {
+          "tag": "H3",
+          "text": "Is Freed secure and compliant with healthcare rules and regulations?"
+        },
+        {
+          "tag": "H2",
+          "text": "Try Freed free for 7 days"
+        },
+        {
+          "tag": "H2",
+          "text": "We know once you try Freed, you won’t want to work without it. So give it a go — no credit card needed."
+        },
+        {
+          "tag": "H2",
+          "text": "Specialties"
+        },
+        {
+          "tag": "H2",
+          "text": "Compliance & Security"
+        },
+        {
+          "tag": "H2",
+          "text": "Product"
+        },
+        {
+          "tag": "H2",
+          "text": "About us"
+        },
+        {
+          "tag": "H2",
+          "text": "Resources"
+        }
+      ],
+      "interactive": []
+    },
+    {
+      "name": "front-desk",
+      "url": "https://www.getfreed.ai/front-desk",
+      "title": "AI front desk receptionist for clinics | Freed",
+      "viewport": "1440x900",
+      "screenshots": [
+        "09-front-desk-desktop.png"
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Patients heard, not on hold"
+        },
+        {
+          "tag": "H2",
+          "text": "The AI medical receptionist that picks up the calls your team can’t — from overflow, to after-hours, to the lunch rush. From the AI scribe 26k clinicians already trust."
+        },
+        {
+          "tag": "H2",
+          "text": "Get started with Front Desk"
+        },
+        {
+          "tag": "H3",
+          "text": "Book a consult"
+        },
+        {
+          "tag": "H3",
+          "text": "Customize your setup"
+        },
+        {
+          "tag": "H3",
+          "text": "Start your free trial"
+        },
+        {
+          "tag": "H2",
+          "text": "Priority access for independent clinics"
+        },
+        {
+          "tag": "H3",
+          "text": "We’re now in beta with small and mid-sized practices looking to provide phone backup for their staff and patients."
+        },
+        {
+          "tag": "H2",
+          "text": "Industry data shows the average practice lets:"
+        },
+        {
+          "tag": "H3",
+          "text": "1 in 4"
+        },
+        {
+          "tag": "H3",
+          "text": "62%"
+        },
+        {
+          "tag": "H2",
+          "text": "Real results from Premonition Health"
+        },
+        {
+          "tag": "H3",
+          "text": "See how Front Desk reduces after-hours strain, protects staff time, and keeps patients connected."
+        },
+        {
+          "tag": "H3",
+          "text": "79%"
+        },
+        {
+          "tag": "H3",
+          "text": "100%"
+        },
+        {
+          "tag": "H3",
+          "text": "60%"
+        },
+        {
+          "tag": "H2",
+          "text": "Phone backup for small practices"
+        },
+        {
+          "tag": "H2",
+          "text": "Front Desk Starter"
+        },
+        {
+          "tag": "H2",
+          "text": "The AI receptionist empowering your team"
+        },
+        {
+          "tag": "H3",
+          "text": "Two-way SMS, built in"
+        },
+        {
+          "tag": "H3",
+          "text": "Less time answering FAQs"
+        },
+        {
+          "tag": "H3",
+          "text": "Calls handled, not just logged"
+        },
+        {
+          "tag": "H2",
+          "text": "Free up your front desk"
+        },
+        {
+          "tag": "H2",
+          "text": "Specialties"
+        },
+        {
+          "tag": "H2",
+          "text": "Compliance & Security"
+        },
+        {
+          "tag": "H2",
+          "text": "Product"
+        },
+        {
+          "tag": "H2",
+          "text": "About us"
+        },
+        {
+          "tag": "H2",
+          "text": "Resources"
+        }
+      ],
+      "interactive": []
+    },
+    {
+      "name": "contact-us",
+      "url": "https://www.getfreed.ai/contact-us",
+      "title": "Leading AI Scribe for all practices | Contact Sales | Freed",
+      "viewport": "1440x900",
+      "screenshots": [
+        "10-contact-us-desktop.png"
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "Free your practice"
+        },
+        {
+          "tag": "H2",
+          "text": "Schedule a meeting with Freed Sales"
+        },
+        {
+          "tag": "H2",
+          "text": "Free yourself for better things"
+        },
+        {
+          "tag": "H2",
+          "text": "Specialties"
+        },
+        {
+          "tag": "H2",
+          "text": "Compliance & Security"
+        },
+        {
+          "tag": "H2",
+          "text": "Product"
+        },
+        {
+          "tag": "H2",
+          "text": "About us"
+        },
+        {
+          "tag": "H2",
+          "text": "Resources"
+        }
+      ],
+      "interactive": []
+    },
+    {
+      "name": "how-it-works",
+      "url": "https://www.getfreed.ai/how-it-works",
+      "title": "How Freed Works | AI-Powered Medical Notes That Clinicians Trust",
+      "viewport": "1440x900",
+      "screenshots": [
+        "11-how-it-works-desktop.png"
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "How scribe works"
+        },
+        {
+          "tag": "H2",
+          "text": "Most AI tools work off one giant prompt and a general database. Freed is an entire system designed specifically for clinical notes."
+        },
+        {
+          "tag": "H2",
+          "text": "But how does it actually work? And most importantly, is it accurate, secure, and compliant? (Yes, yes, and yes.)"
+        },
+        {
+          "tag": "H3",
+          "text": "Engineered for accuracy, even in noisy environments."
+        },
+        {
+          "tag": "H3",
+          "text": "Over 2,000,000 notes processed monthly."
+        },
+        {
+          "tag": "H3",
+          "text": "Multi-layer safety checks and industry-leading security."
+        },
+        {
+          "tag": "H2",
+          "text": "The basics"
+        },
+        {
+          "tag": "H3",
+          "text": "Before the visit"
+        },
+        {
+          "tag": "H3",
+          "text": "During the visit"
+        },
+        {
+          "tag": "H3",
+          "text": "After the visit"
+        },
+        {
+          "tag": "H2",
+          "text": "In the background"
+        },
+        {
+          "tag": "H2",
+          "text": "A lot goes in to getting you the best note possible — and it all happens in record time."
+        },
+        {
+          "tag": "H3",
+          "text": "Audio recorded"
+        },
+        {
+          "tag": "H3",
+          "text": "Converted to text"
+        },
+        {
+          "tag": "H3",
+          "text": "Adapted to your specialty"
+        },
+        {
+          "tag": "H3",
+          "text": "Personalized to your preferences"
+        },
+        {
+          "tag": "H3",
+          "text": "Checked for accuracy"
+        },
+        {
+          "tag": "H2",
+          "text": "Your note is ready!"
+        },
+        {
+          "tag": "H3",
+          "text": "Ready to see it in action?"
+        },
+        {
+          "tag": "H2",
+          "text": "Private & secure"
+        },
+        {
+          "tag": "H3",
+          "text": "Privacy and security are at our core."
+        },
+        {
+          "tag": "H2",
+          "text": "Free yourself for better things"
+        },
+        {
+          "tag": "H2",
+          "text": "Specialties"
+        },
+        {
+          "tag": "H2",
+          "text": "Compliance & Security"
+        },
+        {
+          "tag": "H2",
+          "text": "Product"
+        },
+        {
+          "tag": "H2",
+          "text": "About us"
+        },
+        {
+          "tag": "H2",
+          "text": "Resources"
+        }
+      ],
+      "interactive": []
+    },
+    {
+      "name": "blog-cb-insights-digital-50-2025",
+      "url": "https://www.getfreed.ai/blog/cb-insights-digital-50-2025",
+      "title": "Freed joins CD Insights 2025 Digital Health 50",
+      "viewport": "1440x900",
+      "screenshots": [
+        "12-blog-cb-insights-digital-50-2025-desktop.png"
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "CB Insights Names Freed One of 2025’s 50 Most Promising Digital Health Startups"
+        },
+        {
+          "tag": "H2",
+          "text": "A moment of recognition, and reflection on why we do what we do."
+        },
+        {
+          "tag": "H2",
+          "text": "Table of Contents"
+        },
+        {
+          "tag": "H2",
+          "text": "The bigger picture: less burnout, better care"
+        },
+        {
+          "tag": "H2",
+          "text": "A win for small and mid-sized practices"
+        },
+        {
+          "tag": "H2",
+          "text": "Our mission continues"
+        },
+        {
+          "tag": "H2",
+          "text": "Hearing is believing"
+        },
+        {
+          "tag": "H3",
+          "text": "Our advanced AI will sound realistic and friendly to your patients."
+        },
+        {
+          "tag": "H2",
+          "text": "FAQs"
+        },
+        {
+          "tag": "H3",
+          "text": "Can all clinicians use Freed?"
+        },
+        {
+          "tag": "H3",
+          "text": "Does Freed have a free trial?"
+        },
+        {
+          "tag": "H3",
+          "text": "How can I get started with Freed?"
+        },
+        {
+          "tag": "H3",
+          "text": "Is Freed secure and compliant with healthcare rules and regulations?"
+        },
+        {
+          "tag": "H2",
+          "text": "Related content"
+        },
+        {
+          "tag": "H3",
+          "text": "Freed-ing Clinicians: Our Founding Story"
+        },
+        {
+          "tag": "H3",
+          "text": "Freed Notes Right In Your EHR — No Integration Needed"
+        },
+        {
+          "tag": "H3",
+          "text": "Clinicians at the Table: What It Really Means to Build for Providers"
+        },
+        {
+          "tag": "H2",
+          "text": "Specialties"
+        },
+        {
+          "tag": "H2",
+          "text": "Compliance & Security"
+        },
+        {
+          "tag": "H2",
+          "text": "Product"
+        },
+        {
+          "tag": "H2",
+          "text": "About us"
+        },
+        {
+          "tag": "H2",
+          "text": "Resources"
+        }
+      ],
+      "interactive": []
+    },
+    {
+      "name": "specialty-nurse-practitioners",
+      "url": "https://www.getfreed.ai/specialty/nurse-practitioners",
+      "title": "Medical AI Scribe for Nurse Practitioners",
+      "viewport": "1440x900",
+      "screenshots": [
+        "13-specialty-nurse-practitioners-desktop.png"
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "AI Scribe for Nurse Practitioners"
+        },
+        {
+          "tag": "H2",
+          "text": "2+ hours"
+        },
+        {
+          "tag": "H2",
+          "text": "Loved by thousands of NPs"
+        },
+        {
+          "tag": "H2",
+          "text": "Why NPs love Freed"
+        },
+        {
+          "tag": "H3",
+          "text": "Fast & user-friendly"
+        },
+        {
+          "tag": "H3",
+          "text": "Any device, anywhere"
+        },
+        {
+          "tag": "H3",
+          "text": "EHR-ready notes"
+        },
+        {
+          "tag": "H2",
+          "text": "Off-the-charts simplicity"
+        },
+        {
+          "tag": "H3",
+          "text": "Before the visit"
+        },
+        {
+          "tag": "H3",
+          "text": "During the visit"
+        },
+        {
+          "tag": "H3",
+          "text": "After the visit"
+        },
+        {
+          "tag": "H2",
+          "text": "Your data is secure."
+        },
+        {
+          "tag": "H2",
+          "text": "Priced to help you"
+        },
+        {
+          "tag": "H2",
+          "text": "thrive"
+        },
+        {
+          "tag": "H3",
+          "text": "Starter"
+        },
+        {
+          "tag": "H3",
+          "text": "Core"
+        },
+        {
+          "tag": "H3",
+          "text": "Premier"
+        },
+        {
+          "tag": "H3",
+          "text": "Groups"
+        },
+        {
+          "tag": "H2",
+          "text": "FAQs"
+        },
+        {
+          "tag": "H3",
+          "text": "Is Freed secure and compliant with healthcare rules and regulations?"
+        },
+        {
+          "tag": "H3",
+          "text": "How do I use Freed during patient care?"
+        },
+        {
+          "tag": "H3",
+          "text": "How can I get started with Freed?"
+        },
+        {
+          "tag": "H3",
+          "text": "Can I customize my notes in Freed?"
+        },
+        {
+          "tag": "H3",
+          "text": "Q. Does Freed work with telehealth?"
+        },
+        {
+          "tag": "H2",
+          "text": "Free yourself for better things"
+        },
+        {
+          "tag": "H2",
+          "text": "Specialties"
+        },
+        {
+          "tag": "H2",
+          "text": "Compliance & Security"
+        },
+        {
+          "tag": "H2",
+          "text": "Product"
+        },
+        {
+          "tag": "H2",
+          "text": "About us"
+        },
+        {
+          "tag": "H2",
+          "text": "Resources"
+        }
+      ],
+      "interactive": []
+    },
+    {
+      "name": "specialty-family-medicine",
+      "url": "https://www.getfreed.ai/specialty/family-medicine",
+      "title": "Best AI Medical Scribe for Family Medicine | Freed",
+      "viewport": "1440x900",
+      "screenshots": [
+        "14-specialty-family-medicine-desktop.png"
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "The AI Scribe That Gets Family Medicine"
+        },
+        {
+          "tag": "H2",
+          "text": "2+ hours"
+        },
+        {
+          "tag": "H2",
+          "text": "Loved by thousands in family medicine"
+        },
+        {
+          "tag": "H2",
+          "text": "Because your “40-hour week” is really many more"
+        },
+        {
+          "tag": "H2",
+          "text": "Support beyond the exam room"
+        },
+        {
+          "tag": "H3",
+          "text": "Walk in ready"
+        },
+        {
+          "tag": "H3",
+          "text": "Turn conversations into charts"
+        },
+        {
+          "tag": "H3",
+          "text": "End the day on time"
+        },
+        {
+          "tag": "H2",
+          "text": "Off-the-charts simplicity"
+        },
+        {
+          "tag": "H3",
+          "text": "Before the visit"
+        },
+        {
+          "tag": "H3",
+          "text": "During the visit"
+        },
+        {
+          "tag": "H3",
+          "text": "After the visit"
+        },
+        {
+          "tag": "H2",
+          "text": "Your data is secure."
+        },
+        {
+          "tag": "H2",
+          "text": "Priced to help you"
+        },
+        {
+          "tag": "H2",
+          "text": "thrive"
+        },
+        {
+          "tag": "H3",
+          "text": "Starter"
+        },
+        {
+          "tag": "H3",
+          "text": "Core"
+        },
+        {
+          "tag": "H3",
+          "text": "Premier"
+        },
+        {
+          "tag": "H3",
+          "text": "Groups"
+        },
+        {
+          "tag": "H2",
+          "text": "FAQs"
+        },
+        {
+          "tag": "H3",
+          "text": "Is Freed secure and compliant with healthcare rules and regulations?"
+        },
+        {
+          "tag": "H3",
+          "text": "How can I get started with Freed?"
+        },
+        {
+          "tag": "H3",
+          "text": "How do I use Freed during patient care?"
+        },
+        {
+          "tag": "H3",
+          "text": "Can I customize my notes in Freed?"
+        },
+        {
+          "tag": "H3",
+          "text": "Q. Does Freed work with telehealth?"
+        },
+        {
+          "tag": "H3",
+          "text": "What is the best AI scribe for family medicine?"
+        },
+        {
+          "tag": "H2",
+          "text": "Free yourself for better things"
+        },
+        {
+          "tag": "H2",
+          "text": "Specialties"
+        },
+        {
+          "tag": "H2",
+          "text": "Compliance & Security"
+        },
+        {
+          "tag": "H2",
+          "text": "Product"
+        },
+        {
+          "tag": "H2",
+          "text": "About us"
+        },
+        {
+          "tag": "H2",
+          "text": "Resources"
+        }
+      ],
+      "interactive": []
+    },
+    {
+      "name": "specialty-internal-medicine",
+      "url": "https://www.getfreed.ai/specialty/internal-medicine",
+      "title": "AI Medical Scribe for Internal Medicine",
+      "viewport": "1440x900",
+      "screenshots": [
+        "15-specialty-internal-medicine-desktop.png"
+      ],
+      "headings": [
+        {
+          "tag": "H1",
+          "text": "The AI Scribe That Gets Internal Medicine"
+        },
+        {
+          "tag": "H2",
+          "text": "2+ hours"
+        },
+        {
+          "tag": "H2",
+          "text": "Loved by thousands in internal medicine"
+        },
+        {
+          "tag": "H2",
+          "text": "Why Freed works so well for internists"
+        },
+        {
+          "tag": "H2",
+          "text": "Documentation that supports deep thinking"
+        },
+        {
+          "tag": "H3",
+          "text": "Notes that sound like you"
+        },
+        {
+          "tag": "H3",
+          "text": "Less time charting"
+        },
+        {
+          "tag": "H3",
+          "text": "Supported clinical reasoning"
+        },
+        {
+          "tag": "H2",
+          "text": "Off-the-charts simplicity"
+        },
+        {
+          "tag": "H3",
+          "text": "Before the visit"
+        },
+        {
+          "tag": "H3",
+          "text": "During the visit"
+        },
+        {
+          "tag": "H3",
+          "text": "After the visit"
+        },
+        {
+          "tag": "H2",
+          "text": "Your data is secure."
+        },
+        {
+          "tag": "H2",
+          "text": "Priced to help you"
+        },
+        {
+          "tag": "H2",
+          "text": "thrive"
+        },
+        {
+          "tag": "H3",
+          "text": "Starter"
+        },
+        {
+          "tag": "H3",
+          "text": "Core"
+        },
+        {
+          "tag": "H3",
+          "text": "Premier"
+        },
+        {
+          "tag": "H3",
+          "text": "Groups"
+        },
+        {
+          "tag": "H2",
+          "text": "FAQs"
+        },
+        {
+          "tag": "H3",
+          "text": "How do I use Freed during patient care?"
+        },
+        {
+          "tag": "H3",
+          "text": "Is Freed secure and compliant with healthcare rules and regulations?"
+        },
+        {
+          "tag": "H3",
+          "text": "Q. Does Freed work with telehealth?"
+        },
+        {
+          "tag": "H3",
+          "text": "How can I get started with Freed?"
+        },
+        {
+          "tag": "H3",
+          "text": "Can I customize my notes in Freed?"
+        },
+        {
+          "tag": "H2",
+          "text": "Free yourself for better things"
+        },
+        {
+          "tag": "H2",
+          "text": "Specialties"
+        },
+        {
+          "tag": "H2",
+          "text": "Compliance & Security"
+        },
+        {
+          "tag": "H2",
+          "text": "Product"
+        },
+        {
+          "tag": "H2",
+          "text": "About us"
+        },
+        {
+          "tag": "H2",
+          "text": "Resources"
+        }
+      ],
+      "interactive": []
+    },
+    {
+      "name": "404 Error State",
+      "url": "https://www.getfreed.ai/non-existent-route-404-test",
+      "title": "Not Found",
+      "viewport": "1440x900",
+      "screenshots": [
+        "99-public-404.png"
+      ]
+    }
+  ],
+  "navLinks": [
+    {
+      "text": "Try for Free",
+      "href": "https://secure.getfreed.ai/signup"
+    },
+    {
+      "text": "",
+      "href": "https://www.getfreed.ai/"
+    },
+    {
+      "text": "",
+      "href": "https://www.getfreed.ai/features"
+    },
+    {
+      "text": "",
+      "href": "https://www.getfreed.ai/clinical-evidence"
+    },
+    {
+      "text": "",
+      "href": "https://www.getfreed.ai/coding-assistant"
+    },
+    {
+      "text": "",
+      "href": "https://www.getfreed.ai/ehr-push"
+    },
+    {
+      "text": "",
+      "href": "https://www.getfreed.ai/pricing"
+    },
+    {
+      "text": "",
+      "href": "https://www.getfreed.ai/front-desk"
+    },
+    {
+      "text": "",
+      "href": "https://www.getfreed.ai/front-desk#pricing"
+    },
+    {
+      "text": "Contact sales",
+      "href": "https://www.getfreed.ai/contact-us"
+    },
+    {
+      "text": "",
+      "href": "https://secure.getfreed.ai/"
+    },
+    {
+      "text": "",
+      "href": "https://frontdesk.getfreed.ai/"
+    },
+    {
+      "text": "",
+      "href": "https://frontdesk.getfreed.ai/signup"
+    },
+    {
+      "text": "AI Scribe Turn patient conversations into accurate and customized notes that can sync your EHR, and save you hours each week. Learn more",
+      "href": "https://www.getfreed.ai/#w-tabs-0-data-w-pane-0"
+    },
+    {
+      "text": "Learn more",
+      "href": "https://www.getfreed.ai/how-it-works"
+    },
+    {
+      "text": "Clinical Evidence Ask any clinical question. Get cited answers from 50+ trusted sources, sharpened to the patient in front of you. Learn more",
+      "href": "https://www.getfreed.ai/#w-tabs-0-data-w-pane-1"
+    },
+    {
+      "text": "Coding Assistant Reclaim revenue with ICD-10 and CPT coding suggestions, at the highest justified E/M level, embedded in your scribe workflow. Learn more",
+      "href": "https://www.getfreed.ai/#w-tabs-0-data-w-pane-2"
+    },
+    {
+      "text": "Front Desk Empower your team with an AI receptionist that answers calls when they can’t — during lunch, after-hours, or for overflow. Learn more",
+      "href": "https://www.getfreed.ai/#w-tabs-0-data-w-pane-3"
+    },
+    {
+      "text": "Awarded",
+      "href": "https://www.getfreed.ai/blog/cb-insights-digital-50-2025"
+    },
+    {
+      "text": "More testimonials",
+      "href": "https://love.getfreed.ai/b2xGQ1"
+    },
+    {
+      "text": "Platform Terms of Use",
+      "href": "https://help.getfreed.ai/en/articles/9879697-platform-terms-of-use"
+    },
+    {
+      "text": "Website Terms of Use",
+      "href": "https://help.getfreed.ai/en/articles/9879927-website-terms-of-use"
+    },
+    {
+      "text": "Nurse Practitioners",
+      "href": "https://www.getfreed.ai/specialty/nurse-practitioners"
+    },
+    {
+      "text": "Family Medicine",
+      "href": "https://www.getfreed.ai/specialty/family-medicine"
+    },
+    {
+      "text": "Internal Medicine",
+      "href": "https://www.getfreed.ai/specialty/internal-medicine"
+    },
+    {
+      "text": "Psychiatry",
+      "href": "https://www.getfreed.ai/specialty/psychiatry"
+    },
+    {
+      "text": "Mental Health",
+      "href": "https://www.getfreed.ai/specialty/mental-health"
+    },
+    {
+      "text": "Pediatrics",
+      "href": "https://www.getfreed.ai/specialty/pediatrics"
+    },
+    {
+      "text": "Functional Medicine",
+      "href": "https://www.getfreed.ai/specialty/functional-integrative-medicine"
+    },
+    {
+      "text": "OB/GYN",
+      "href": "https://www.getfreed.ai/specialty/ob-gyn"
+    },
+    {
+      "text": "Other Specialties",
+      "href": "https://www.getfreed.ai/specialty/clinicians"
+    },
+    {
+      "text": "HIPAA Compliance",
+      "href": "https://www.getfreed.ai/blog/how-freed-handles-data-privacy-compliance"
+    },
+    {
+      "text": "Security Center",
+      "href": "https://app.drata.com/trust/1d1964c2-b90c-41ac-8d7c-2ea7f5af001c"
+    },
+    {
+      "text": "Privacy Policy",
+      "href": "https://help.getfreed.ai/en/articles/9879953-privacy-policy"
+    },
+    {
+      "text": "Data Security FAQs",
+      "href": "https://www.getfreed.ai/security"
+    },
+    {
+      "text": "Pre-charting and Visit Prep",
+      "href": "https://www.getfreed.ai/features/#section03"
+    },
+    {
+      "text": "ICD-10 Codes",
+      "href": "https://www.getfreed.ai/features/#section06"
+    },
+    {
+      "text": "Patient Instructions and Post-visit Letters",
+      "href": "https://www.getfreed.ai/features/#section04"
+    },
+    {
+      "text": "Specialty-specific Templates",
+      "href": "https://www.getfreed.ai/features/#section02"
+    },
+    {
+      "text": "AI Scribe Releases",
+      "href": "https://www.getfreed.ai/release-notes/ai-scribe"
+    },
+    {
+      "text": "Front Desk Releases",
+      "href": "https://www.getfreed.ai/release-notes/front-desk"
+    },
+    {
+      "text": "The Freed Story",
+      "href": "https://www.getfreed.ai/blog/the-freed-story"
+    },
+    {
+      "text": "Company",
+      "href": "https://www.getfreed.ai/careers/company"
+    },
+    {
+      "text": "Careers",
+      "href": "https://www.getfreed.ai/careers/positions"
+    },
+    {
+      "text": "From the Freedos",
+      "href": "https://www.getfreed.ai/blog-topics/from-the-freedos"
+    },
+    {
+      "text": "Scribe Help Center",
+      "href": "https://help.getfreed.ai/en/"
+    },
+    {
+      "text": "Front Desk Help Center",
+      "href": "https://frontdesk.help.getfreed.ai/en"
+    },
+    {
+      "text": "FAQs",
+      "href": "https://help.getfreed.ai/en/articles/11870714-frequently-asked-questions"
+    },
+    {
+      "text": "Blog",
+      "href": "https://www.getfreed.ai/blog"
+    },
+    {
+      "text": "Case Studies",
+      "href": "https://www.getfreed.ai/blog-topics/user-stories"
+    },
+    {
+      "text": "Press Releases",
+      "href": "https://www.getfreed.ai/press"
+    },
+    {
+      "text": "For Groups",
+      "href": "https://www.getfreed.ai/landing/healthcare-organizations"
+    },
+    {
+      "text": "Resource Articles",
+      "href": "https://www.getfreed.ai/resources"
+    },
+    {
+      "text": "Printable One-Pagers",
+      "href": "https://www.getfreed.ai/clinic-print-kit"
+    },
+    {
+      "text": "ICD10 Code Finder",
+      "href": "https://www.icdcodes.ai/?utm_source=freed&utm_medium=footer"
+    },
+    {
+      "text": "Stop paying for Freed yourself",
+      "href": "https://ky8sv056i1b.typeform.com/to/QaJmaGIi"
+    },
+    {
+      "text": "Refer a friend",
+      "href": "https://gift.getfreed.ai/global-footer-website"
+    }
+  ],
+  "ctas": [],
+  "authUrls": [
+    {
+      "text": "Try for Free",
+      "href": "https://secure.getfreed.ai/signup"
+    },
+    {
+      "text": "",
+      "href": "https://secure.getfreed.ai/"
+    },
+    {
+      "text": "",
+      "href": "https://frontdesk.getfreed.ai/signup"
+    }
+  ]
+}
